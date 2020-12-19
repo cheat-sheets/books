@@ -99,3 +99,66 @@ https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
     - Distribution - you must have distribution channels.
     - Durability - you should have a defendable position for 10-20 years into the future.
     - Secret - you must have a secret no one knows. 
+
+## Stress-Free Living
+
+https://www.amazon.com/Mayo-Clinic-Guide-Stress-Free-Living/dp/B01J2BMZD2
+
+1. Mind has 2 states: **focused** and **default**. Focused mode is when the mind is externally directed, 
+    default mode is when the mind is internally directed. 
+    - [A Wandering Mind is an Unhappy Mind](https://science.sciencemag.org/content/330/6006/932.full)
+    - Ruminations are thoughts about past events, worries are thoughts about future events.
+    - Mind can only keep around 7 items of information at a time. It has a queue of tasks or things to think about. 
+      When the queue is too long it causes "thrashing" or stress.
+2. Human mind selectively attends to threat, pleasure and novelty. 
+    - Threat is the predominant focus. 
+    - The majority of modern threats are our inter-emotional battles.
+    - Our minds are innately restless and irrational.
+    - The new mantra of survival is "survival of the kindest". Some research shows that people look for kindness in
+      their partners.
+3. Be happy with what you have, don't compare yourself with others, compare yourself with previous version of you.
+    What you have now many people can't even dream about. 
+    - A story of how **Darwin** lost his beetles while he was collecting samples of insects. He had 2 beetles - one in 
+      each hand. He saw another beetle not far from him and wanted to pick him. After putting one of the beetles in
+      his mouth, the beetle stung his tongue, Darwin shoked had to throw away both beetles and lost the 3rd too. 
+      The moral is be content with what you have.
+    - **Acceptance** - don't cling to desired outcomes, accept everything. Accept people, every person is like 
+      a **key on the piano** - each key sounds right if it's in the right place and in the right song. Meaning every person
+      can be good and useful if he is in the right environment.
+4. **Meaning**. Living without meaning is akin to a car connected to 7 horses all pulling in different directions.
+    Meaning is what gives you direction in life and what allows you to move forward and progress.
+    - "Satisfy the necessities of life – hunger with food, thirst with drink – like the **butterfly that sips the 
+      flower**, without destroying its fragrance or its texture".
+    - Mother Teresa released a book which shocked everyone, in which she confessed that she stuggled finding meaning 
+      in life.
+6. **Forgiveness**. People who can forgive have less stress, live longer. Anger can hurt you more than it hurts 
+    the target of your anger.
+    - President Ronald Reagan was shot by an assassin. He felt anger to him but decided to forgive to relieve himself.
+      Forgiveness started healing him before surgeon know did.
+    - Realising that actions of other might b caused by their innocent ignorance will make forgiving easier.
+7. Don't judge other people.  
+    - Weak or kind
+    - Inconsiderate or upfront
+    - Stingy or generous
+    - Lazy or careful
+    - Obstinate or confident
+    - Wasteful or tasteful
+8. The 4 horseman of the apocalypse: Contempt (презрение), Defensiveness, Criticism, Stonewalling.
+9. **P/N ration** - positive to negative feedback ration. There's a research that shows that happy families have P/N
+    ration higher than 5.
+10. Volcanoes server a purpose - they prevent earthquakes, release pressure from beneath earth. Healthy argument serves a
+    similar purpose. You ability to voice disagreement helps to keep democracy alive at home and nationally.
+11. To say "no" use a sandwich of "yes", "no", "yes". 
+    - "I'd like to meet you, but have too much going on right now. How about next monday".
+12. Apologise when appropriate - your apology should be simple. It's not a sign of weakness or timidity, 
+    it's on the contrary a sign of strength.
+13. Negativity bias - the mind is biased toward negativity. This is important for survival because missing adversity
+    can kill you while missing fortune can't.  
+14. **[Top five regrets of the dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)**
+  - "I wish I'd had the courage to live a life true to myself, not the life others expected of me."
+  - "I wish I hadn't worked so hard."
+  - "I wish I'd had the courage to express my feelings."
+  - "I wish I had stayed in touch with my friends."
+  - "I wish that I had let myself be happier."
+  
+
