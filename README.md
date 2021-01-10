@@ -161,4 +161,64 @@ https://www.amazon.com/Mayo-Clinic-Guide-Stress-Free-Living/dp/B01J2BMZD2
   - "I wish I had stayed in touch with my friends."
   - "I wish that I had let myself be happier."
   
+## The Lean Startup
+
+https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898
+
+**Key idea**: ship an MVP quickly to users to get their feedback, iterate fast. 
+This will help you to avoid wasting time on building products that no one needs.
+
+**Pros**:
+- Some ideas from Lean Manufacturing are interesting, e.g. the [Five whys](https://en.wikipedia.org/wiki/Five_whys)
+- Some startups mentioned in the book are interesting
+
+**Cons**:
+- Mostly opinions and experiences of the author
+- Many of the use case examples of companies in the book failed to grow
+- The startup the author founded - IMVU - failed to grow
+- The author is a consultant
+
+**Points**:
+
+- **Learning**
+    - The company that the author build: https://IMVU.com
+    - Launch an early low quality prototype, and MVP, to get feedback from customers to avoid building something 
+      no one needs.
+    - Charge customers from day 1 
+    - Use low volume revenue targets as a way to drive accountability
+
+- **Experiment**
+    - Entrepreneurs should experiment more, do strategic planning less. This allows them to learn about problems 
+      users have and how to solve them.
+
+- **Leap**
+    - There are two leaps of faith: value and growth.
+    - Companies should minimize feedback loop, build MVP and release it, get feedback from users. 
+    - Toyota has a chief engineer who oversees the entire production. New model Siena was designed for children.
+
+- **Test**
+    - Develop an MVP to test your ideas. 
+    - [Food on the Table](https://www.crunchbase.com/organization/food-on-the-table) had their CEO go to customers 
+      as concierge to create groceries list etc.
+    - [Aardvark](https://en.wikipedia.org/wiki/Aardvark_(search_engine)) - social search engine for subjective questions. 
+       Hired people to replicate backend. **Wizard of Oz Testing** - users think they interact with a machine while 
+       in fact there is a human behind the scenes doing the work.
+
+- **Measure**
+    - Don't use vanity metrics - gross number of customers, revenue. It doesn’t tell you if actions of 
+      the entrepreneurial team have any positive effect.
+    - [Grockit](https://en.wikipedia.org/wiki/Grockit), an online social learning game company, used split testing 
+      to find out if their initiatives work. Ceased to exist in 2016.
+    - Teams are evaluated by using validated learning, i.e. validating that new features improved core metrics, 
+      not by simply production of new features.
+    - Three As of good metrics: **actionable, accessible, auditable**.
+
+- **Pivot or Persevere**
+    - Kching- platform for amateur traders, designed as a game
+    - [Five whys](https://en.wikipedia.org/wiki/Five_whys), by Sakichi Toyoda. Below is an example:
+        - A new release broke a feature for customers; why, because a particular server failed; why, because of 
+        an obscure subsystem used in a wrong way; why, the engineer who used it didn't know how to use it properly;
+        why, because he was never trained; why, his manager doesn't believe in training new engineers because he 
+        and his team are too busy. the Five whys helped identify a managerial problem which seemed like a technical problem.
+
 
