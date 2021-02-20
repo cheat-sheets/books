@@ -222,3 +222,41 @@ This will help you to avoid wasting time on building products that no one needs.
         and his team are too busy. the Five whys helped identify a managerial problem which seemed like a technical problem.
 
 
+## Mastering Fear
+
+"The brave man is not the one who has no fear, he's the one who triumphs over his fear" - Nelson Mandela.
+
+[Systematic desensitization](https://en.wikipedia.org/wiki/Systematic_desensitization) - The process of systematic 
+desensitization occurs in three steps. The first step of systematic desensitization is the identification of an 
+anxiety inducing stimulus hierarchy. The second step is the learning of relaxation or coping techniques. 
+When the individual has been taught these skills, he or she must use them in the third step to react towards 
+and overcome situations in the established hierarchy of fears. The goal of this process is for the individual 
+to learn how to cope with, and overcome the fear in each step of the hierarchy. 
+
+[SEAL BUD/S](https://en.wikipedia.org/wiki/United_States_Navy_SEAL_selection_and_training#Basic_Underwater_Demolition/SEAL_(BUD/S)_Training_(24_weeks)) - Basic Underwater Demolition - is a 24-week training course that develops the SEAL candidates' mental 
+and physical stamina and leadership skills. Each BUD/S phase includes timed physical condition tests, with the time 
+requirements becoming more demanding each week.
+
+Sleep is a weapon.
+
+You experience anxiety or stress when you know you need to do something but you don't do it due to procrastination. 
+To get rid of anxiety or stress just starting making steps towards fixing what causes it. Jeff Bezos. 
+
+**Lessons** (from [here](https://alexandbooks.com/archive/mastering-fear-by-brandon-webb-john-mann)):
+
+1. **Prepare More Than You Need**
+    - In the course of one season an oak tree will drop thousands of acorns. Why? All it takes to safely reproduce itself and continue to oak species is a single acorn. So what are all those others? Rough drafts.
+    - When directors film a movie, they spend many hours and sometimes days filming a 1-minute scene over and over again. The same scene can be shot over twenty times, but eventually, only one clip is chosen. 
+    - Pilots run dozens or even hundreds of what-if scenarios: What to do if an engine goes out; if there’s an electrical problem; if communications go down and more. 
+
+2. **True Safety is an Illusion**
+    - Fear is awareness of danger, right? And naturally, you want to keep yourself safe, correct? Ah, but that’s a trap! And within that trap is a secret, one that might be uncomfortable to hear but will liberate you if you let it: You’re never safe.
+    - Every great gain, for humanity as a whole or for you or me in our own lives, has come about only through risk.
+    
+3. **Trust Your Gut and Jump**
+    - A lot of times in life people find themselves in a situation where they know what they have to do and it feels 
+    like the universe is telling them to do it, but the people around them may try to stop them. This is why it's 
+    important to trust your gut and jump when things feel right.
+    - Brandon tells the story of a young mechanic named Douglas Corrigan who was inspired to fly after Charles Lindbergh 
+    flew his plane across the Atlantic. Lindbergh became an American hero and became Time magazine's first 
+    "person of the year."
