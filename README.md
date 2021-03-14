@@ -260,3 +260,118 @@ To get rid of anxiety or stress just starting making steps towards fixing what c
     - Brandon tells the story of a young mechanic named Douglas Corrigan who was inspired to fly after Charles Lindbergh 
     flew his plane across the Atlantic. Lindbergh became an American hero and became Time magazine's first 
     "person of the year."
+
+## Sapiens: A Brief History of Humankind
+
+https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095
+
+- Homo Sapiens (man wise) - Homo is genus, sapiens is species.
+- Mix of a horse and a donkey is a mule. Mules are infertile. 
+    Animals within the same species can mate and produce fertile offspring.
+- Homo Sapiens originated in East Africa around **100k** years ago. 
+    Like other humans, Neanderthals originated in Africa but migrated to Eurasia long before other humans did.
+- **Cognitive revolution** is when language was invented, around 50k years ago. 
+    - Gossiping is the primary utility of language and why it developed. 
+        150 is the number of members of a group when gossiping is efficient without hierarchy.
+- **Agricultural revolution** happened 12k years ago. Before that humans were hunter-gatherers. 
+    - Our brain is shaped to hunter-gatherer style of living happening for 88k out of 100k years.
+    - Hunter-gatherers have to move from place to place frequently so they didn't have many possessions. A modern 
+        human has many posessions due to consumerism. 
+    - Wheat, rice, potato domesticated humans. 
+        I.e. they accomplished evolutionary goal of spreading their genes across globe.
+- People eradicated large animals from earth like Mammoths, because they had a lot of meat. 
+    Also the climate change helped.
+- [Unification of humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Summary) 
+    - There are different levels of existence: objective, subjective (created and belived by the mind of a single individual), 
+        inter subjective (created and believed by the society). 
+    - From the **American Constitution**: all men are created equal, they are endowed by their creator with certain unalienable 
+        rights among these are life, liberty and the persuit of happiness. 
+        This translates in biological terms to: all men evolved differently, born with certain immutable characteristics 
+        and among these are life and the pursuit of pleasure.
+    - **Raping a woman** was considered a property violation, rapist had to pay to the father of the woman. 
+        Giving birth to a girl was considered a misfortune in China. Parents often killed girls to get another chance.
+    - **Equality and liberty** are in contradiction with each other. 
+        Soviet Union: everyone is equal but there is no freedom.
+
+- **Money** is the invention that catalysed trade. 
+    - First silver ingots appeared 3000 years BC. 
+    - Money replaces other beliefs such as belief in honor, honesty, generocity.
+
+- First missionary **religions** appeared in the 1st century BC (Before Christ)/
+    - Catholics believed that to atone for their sins people have to do good deeds. 
+    - Protestants believed that Christ already atoned for all sins, if we believe we need to do more we devalue Christ's sacrifice.
+    - Christianity is a monotheistic religion but saints mirror poly gods
+    - Nirvana literally means extinguishing the fire
+    - There are 2 types of chaos:
+        - Level 1 chaos - e.g. weather
+        - Level 2 chaos - e.g. markets, they react to predictions
+
+- **Memetics** - similar to how organic units spread using genes, cultural ideas spread using memes.
+    - This term was coined by Richard Dawkins. 
+    - Postmodernists see discourses as units of culture. In this sense Postmodernism is a younger sister of memetics.
+
+- 1500 year - the **Scientific Revolution**
+    - Based on collecting data and creating theories from these data.
+    - **Scottish Widows - the first insurance company**, used statistics to predict gatherings of money that would be
+        enough to compensate for losses of husbands. 
+    - Science solved poverty, famine, disease, but not yet death.
+    - 1768 - expedition led by James Cook. 
+        - His crew wes sent to Tahiti to observe transition of Venus to 
+            calculate the distance of the Earth from the Sun. The data collected in the expedition sparkled research 
+        in many fields. 
+        - In that expedition it was found that Scurvy is caused by lack of vitamin C.
+        - Tasmanian and Australian aboriginals were exterminated by expeditions that were half scientific half imperial.
+        - [Truganini](https://en.wikipedia.org/wiki/Truganini) is the last native full-blooded aboriginal Tasmanian. 
+    - 1750 to 1850 is when Europe became the leader after a series of wars with Asian countries. 
+        Scientific and technological innovations is what gave European countries an edge in wars.
+    - The first railroad was opened in Britain in 1830.
+    - 1831 - the Royal Navy sent expedition to South America, 22 years old Charles Darwin took part in it, 
+        he was a Cambridge graduate. He created the theory of evolution there.
+    - Might be a fake: when Americans were preparing for landing on the Moon they practiced in South America. 
+        They met an aboriginal who asked them to pass a message to Gods on the Moon: 
+        Don't believe anything these people are saying to you, they came to steal your land.
+    - When Columbus discovered America he thought it was India so called aboriginals Indians. 
+        Religion said there is only Europe, Asia and Africa so he didn't dare to claim it was a new continent.
+        - Amerigo Vespucci wrote articles claiming it was a new continent. A mapper thought 
+            Amerigo discovered it so called it in his honor.
+    - **Age of discovery**: 1400 to 1650.
+    - 1519 - the Spanish colonised Mexico. Natives carried incenses because Spanish smelled unbearable. 
+        They thought it was a sign of divine honor. [**Cortes**](https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s) 
+            was a bandit who conquered the Aztec empire. 
+    - 1982 - the Japanese conquered Alaskan places
+    - **Indoeuropean family of languages**, William Jones was the first who studied them.
+
+- **Loan revolution** 
+    - The **Mississippi Bubble** in France 1717, company wanted to colonize Mississippi and build New Orleans. 
+    - The British empire was run by private joint stock companies traded by stock exchanges. 
+        First colonies in North America were established by the **London Company**, **Plymouth Company**, 
+        **Massachusetts Company**, not the state. India was colonised by mercenary armies of the East British company.
+    - **[Atlantic slave trade](https://en.wikipedia.org/wiki/Atlantic_slave_trade) company**
+
+- **Industrial revolution** is the evolution of energy conversion
+    - 1825 - steam engine was used on a train
+    - Internal combustion engine
+    - Nuclear power
+
+- **Consumerism** - the supply exceeds demand so culture promotes consumerism. 
+- **Individualism** - state and market will take care of you, you don't need your family and community.
+
+- **Happiness**
+    - Evolution designed us to never be happy for a long time. 
+        The desire for pleasure drives progress, without it progress stops.
+    - There is a set point of happiness for every human, it returns to that point after some turbulences caused 
+        by good or bad events.
+    - **The Selfish Gene** - natural selection chooses what's good for the reproduction of genes, 
+        even if it's bad for them as individuals 
+    - **Buddhism** - a man standing on a beach trying to attract good waves and distract bad waves. 
+        He becomes frustrated of this fruitless exercise. It's better to relax and let them come and go.
+        Waves are feelings in this metaphor.
+    - Happiness begins within, independent of external conditions. Buddhism says it's independent of feelings
+
+- Green fluorescent rabbit [Alba](https://en.wikipedia.org/wiki/Alba_(rabbit)) 
+
+- **Biological revolution** - people engineering organisms by changing DNA. 
+    - 1996 - an ear was grown on a mouse back from cartilage tissue of cattle, 
+        [Vacanti mouse](https://en.wikipedia.org/wiki/Vacanti_mouse).
+- [Human brain project](https://en.wikipedia.org/wiki/Human_Brain_Project).
+
