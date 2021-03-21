@@ -6,12 +6,16 @@ Book summaries
 
 https://www.goodreads.com/book/show/23158207-how-google-works
 
+Google Search doesn't have any network effect. Google's culture does. Google is hiring the best of the best engineers
+which attracts more best engineers. Every new engineer increases the value of the company non-linearly and increases
+the chance more best engineers will want to join.
+
 - If you want something done, give it to a busy person
 - Knights and knaves and divas
 - Base your product on strong technical insight, not on market research
-	- Google Search - PageRank
-	- AdWords - rank ads by how often people click on ads
-	- Google News - group news by topic not source
+    - Google Search - PageRank
+    - AdWords - rank ads by how often people click on ads
+    - Google News - group news by topic not source
 - Focus on growth not revenue
 - A fox knows everything but hedgehog knows one big thing. Good to great - all great companies are hedgehogs. Specializing is a riskier strategy.
 - Hire good people, good people attract good people. Bad people attract bad people. Smart creatives are someone who is smart and creative.
