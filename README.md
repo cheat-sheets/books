@@ -2,6 +2,157 @@
 
 Book summaries
 
+## The Selfish Gene
+
+https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
+
+- The use of contraceptives proves that we are capable of behaving against our primal instincts,
+  create fake meaning in life.
+- Self-deception evolved to protect the lies, not to expose them to others.
+- Examples of altruistic behavior: 
+    - Bees stinging enemies and losing a part of their body then dying
+    - Monkeys screaming when seeing a predator, which notifies other monkeys
+- **Speciesism** is normal while **racism** is not. Killing chimpanzees is ok.
+- Group selection doesn't make sense, lions shouldn't kill antilopes because they both members of group mammals
+- From a soup of atoms molecules can randomly assemble. Even complex molecules like aminoacids.
+    - At some point replicator molecules may assemble
+    - There is positive and negative replication. DNA is an example of negative replication.
+- Hebrew word for young woman (alma) was mistranslated into virgin in Greek: behold a virgin shall conceive and bear a son. 
+  Maiden in English can mean a young woman or virgin.
+- Evolution favors high fidelity replication i.e. with low number of errors. 
+  A paradox here is that evolution happens despite all the efforts of replicators to prevent it happening.
+- Humans are survival machines for genes. I.e. first there was just protective protein coat around replicators - a cell.
+  Then it grew into primitive multicelular organisms, etc. until complex organisms like primates. 
+- Chromosomes are volumes in a book, genes are pages in a book. 
+  Genes interact with each other, you can't find a gene for long legs or altruism.
+- 23 pairs of chromosomes, one pair from the father another from the mother. 
+  Gene for eye color can be different in each side of chromosome, only one will be used the other is recessive 
+  and will be passed to future generations. Only if both genes inhereted from mother and father are for blue eyes, the
+  person will have blue eyes.
+- Gene pool, all genes in the population. Sex mixes chromosomes, sex cells have only 23 chromosomes, sperm or egg.
+- Sperm and eggs have a mix of paternal and maternal genes, each sperm or egg has a different mix. 
+  Sperm and eggs are created during meiotic division.
+- During meiotic division paternal and maternal genes crossover. Crossover may occur in the middle of a gene. 
+  The shorter a gene the more likely it's to be passed to next generation as it's less likely to be split due to crossover.
+- Cistron - a group of genes.
+- Properties of a successful unit of natural selection - **longevity**, **fecundity**, **copying fidelity**.
+- Genes are analogous to members of a boat in a rowing competition. 
+  You need 8 good members to win, they cooperate, but compete with other people for a particular role in the boat. 
+  Wind is external environment.
+- Lethal genes cause the survival machine to die at some point in life. 
+  Semi-lethal genes make it more likely to die from some cause. 
+  E.g. a gene that causes old body to develop cancer would be passed on to next generations.
+- Death doesn't contradict natural selection. **We could prohibit making children until the age of 40** and it would 
+  increase the average life span over time. 
+  Doing this could increase the life to several hundred years.
+- Some flies don't have crossing over, in this case the whole chromosome is a gene.
+- Limbic system is parallel. Cortex is serial. 
+  Like Macintosh user interface simulates folders and files in the UI. 
+  Cortex allows us to run simulations which creates an illusion of consciousness.
+- Stable sex ratio is 50/50, it can be calculated using game theory methods.
+- Hawk vs dove, for example 5/12 doves and 7/12 hawks.
+- ESS - Evolutionary Stable Strategy.
+- There is territorial defense, e.g. in tigers. 
+  The strategy is: if you are an intruder you escape if you are the owner you attack. 
+  This strategy may develop when there are no other differentiators e.g. size. 
+  People often use this strategy e.g. when occupying parking lots.
+- Stable gene set, gene set in the population form an evolutionary stable set.
+- Recessive gene kills its owner if there are two copies of it. That's why incest is taboo.
+- Birds discriminate eggs so they don't take care of other eggs by accident. 
+  Game theory shows that if they didn't do it cheaters would lay eggs and have honest birds brood over them.
+- Kinship (relatedness) of twins is 1. 
+  Kinship to parents, siblings, and children is 0.5. 
+  Kinship to grandparents, grandchildren, cousins, nephews, nieces is 0.25.
+- Lions on average have 0.22 kinship for males and 0.15 kinship for females. 
+  The altruistic gene then encodes behavior assuming this number, any deviation from it is penalized by natural selection.
+- In terms of kinship parent-child relationship is same as brother-sister relationship (0.5 kinship). 
+  The certainty is higher for the parent-child relationship though, so care is manifested more.
+- If your mother is monogamous she is as good a genetic bet as you yourself (she can produce siblings for you == you producing children) some insects store sperm after the first mating, e.g. ants.
+- Altruism from uncles of mother side is higher than altruism from uncles of father side since there is less 
+  confidence the children are from the father (she might have cheated). 
+  Mother's brother effect - Maternal brother should be more altruistic than apparent father.
+- [Fraternal birth order effect](https://en.wikipedia.org/wiki/Fraternal_birth_order_and_male_sexual_orientation) -
+  the more older brothers a male has from the same mother, the greater the probability he will have a homosexual orientation.
+- Bearing and caring strategy. There can be no only caring strategy as it's not stable.
+- Caring for children affects the optimal number of children cause caring requires resources. 
+  Different species of birds lay different number of eggs.
+- PI - parental investment is any parental expenditure that benefits offspring.
+- Menopause is genetically explained, older woman has lower chances of their children surviving. 
+  At around 40 years old chances are 2 times lower than those of their grandchildren.
+- Parents try to maximize the chances of their offspring survival, pick the best number of children and allocate food according to needs. 
+  Children scream to indicate they are hungry. Some children scream more to cheat and get more food at a cost of siblings. 
+  But that strategy is not winning cause this gene will be in their children and it will have reduced the capacity to replicate.
+- The stable ratio of males to females is 50/50 for organisms. 
+  A gene spends 50% of his life in a male body and 50 in female. 
+  Some genes e.g. penis length are only expressed in one sex.
+- It's more likely that a male abandons its offspring than a female cause for a female it's a much larger investment of resources.
+- [Bruce effect](https://en.wikipedia.org/wiki/Bruce_effect) - female rodents will lose the pregnancy if exposed to another male within 24 hours.
+- At a certain level of development of a child it's best strategy for one of parents to leave. 
+  The one who leaves first is in advantages position. 
+  It only works if a child is at the level that just one parent is enough to bring him up.
+- **Domestic bliss strategy** - she plays hard to get, he proves his fidelity and perseverance.
+  **He-man strategy** - the female goes for the best genes, accepting that she will get no help from the father (elephant seals, female copulates with the best male by visible clues. Small proportion of males copulates with all females)
+- Coy fast strategies - for female
+  Faithful filandro strategies for male
+- There will be a stable equilibrium in which there is a certain proportion of strategies.
+- The strategy of a female of asking him to do initial investment e.g. build a nest or climb a mountain or kill a dragon 
+  is stable as it ensures he will not desert after copulating. 
+  He'd have to kill another dragon if he wanted to copulate with another female.
+- Paternal care is common in water but rare on land, visa versa for maternal care. 
+  Female fish can spew her eggs and leave, male can't do this as male sperm would diffuse unlike female eggs. 
+  Then after male spews sperm on eggs he has to care of it as the female is already gone. 
+  There is a paper that shows the hypothesis is wrong.
+- Sexual selection: paradise birds select males with long tails. 
+  In the beginning it was an indicator of success, further it was increased because females used 
+  a simple rule of choosing male with long tale.
+- Chimpanzee have bones in their penis called baculum.
+  Erection failure is an early warning of diabetes or psychological diseases. 
+  It's a warning sign for the female to not copulate. 
+  Similar to how long tails of paradise birds is a sign of good health (no diarrhea), erection is a sign of good health. 
+  That's why humans lost bone in penises since it helps females to pick better males.
+  **Handicap principle** - males develop a handicap such as a long tail which is sexually selected.
+- Hoarding of animals explained by them trying to surround themselves with other animals., so they don't get eaten.
+- Gazelles jump high to show they are healthy and not an easy prey.
+- Beehives are warm inside although bees are not warm blooded, they behave like an organism. 
+  Most individuals are sterile like in bodies only testes eggs and ovaries are not sterile
+- Hairless rodents behave like social insects. 
+  Grasshoppers is a special cast of social locusts that go out and eat everything.
+- **Haplodiploidy** is a sex-determination system in which males develop from unfertilized eggs and are haploid, 
+  and females develop from fertilized eggs and are diploid.
+- Some ants farm fungi on leaves. Farming in other sense means that worker bees farm their genes on the queen bee.
+- Bees cheats suckers grudgers. 
+  Grudgers are tit for tat, remove ticks from head of others. 
+  Grudgers will win but some cheats will be left.
+  Suckers are not beneficial to grudges because they cause the prosperity of cheats.
+- **Meme** is a living structure, it occupies nerve cells in brains of humans and spreaders across them.
+  The God meme survived not because of the advantage to Hunans but advantage to the meme.
+  It's possible that not religion causes survival but some other factor causes religion and survival e.g. desire to have idols.
+- Don't seek immortality in gene reproduction rather in meme reproduction.
+- Axelrod's tit-for-tat, 16 strategies competing with each other pairwise.
+  Naive prober does better than tit-for-tat.
+  Remorseful prober does even better.
+  In the third round he ran multiple generations to see which one will outnumber others. 
+  Tit-for-tat is not an ESS, it can be evaded by other nice strategies e.g. always cooperate.
+  If a population is already dominated by defectors it is an ESS, can't be evaded by other strategies.
+  Tit-for-tat is not envious, it doesn't care about other people rewards, only about maximizing their reward from nature.
+  The British and Germans developed tit-for-tat strategy when on front line in a war with each other. You don't shoot me I won't shoot you, long term game, live and let lived.
+- Bacteria and animals also play strategy games. Some bacteria can cause sepsis when individual is wounded and in normal circumstances it helps.
+- Vampire bats share blood when the bro is in need, they also play tit-for-tat.
+- Segregation distorters have unfair advantage comparing to aliel genes, for example T-genes in mice. 
+  If there are 2 of T-genes the mouse dies.
+- Rabies virus makes the host behave in a way that makes spreading the virus easy. 
+  Animal is roaming around like crazy ignoring dangers, biting others, salivating.
+  Does hiv increase libido?
+  Genes are replicators, bodies are vehicles.
+- A bee hive behaves like a single organism because the genes originate from the queen. 
+  The condition is that genes must have a single genetic route, for it to be considered a vehicle. 
+  That's why a pack of wolves is not an organism.
+- 3 questions:
+    - Why do genes aggregate into cells - cooperation gives benefits eg multi step chemical reactions are possible.
+    - Why do cells aggregate into organisms - bigger size and separation of functions helps.
+    - Why do organism have a bottlenecked lifecycle. Start as single cell and a result is single cell.
+
+
 ## How Google Works
 
 https://www.goodreads.com/book/show/23158207-how-google-works
@@ -28,9 +179,9 @@ the chance more best engineers will want to join.
 - Jobs reality distortion field - Jobs asked engineer if he could shave off 10 seconds from the macintosh bootup time. 
     He said no. Then asked again but what if a person's life depended on it? He said well maybe. In a month he shaved of 20 seconds.
 - Google X Venn Diagram to decide whether to pursue an idea:
-	- Solves a big challenge
-	- Solution that's radically different from anything else on the market
-	- Feasible, achievable in not distance future
+    - Solves a big challenge
+    - Solution that's radically different from anything else on the market
+    - Feasible, achievable in not distance future
 - 70/20/10 rule.
 - Red flag law in the UK - after a car accident the government came up with a regulation that instructed to have 
     a person with a red flag coming in front of every car, and 2 mile/h in the city, 4 miles/h outside.
