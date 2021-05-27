@@ -545,4 +545,56 @@ https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095
     - 1996 - an ear was grown on a mouse back from cartilage tissue of cattle, 
         [Vacanti mouse](https://en.wikipedia.org/wiki/Vacanti_mouse).
 - [Human brain project](https://en.wikipedia.org/wiki/Human_Brain_Project).
+        
 
+## The 21 Irrefutable Laws of Leadership
+
+https://www.amazon.com/21-Irrefutable-Laws-Leadership-Anniversary/dp/149151311X
+
+- Pros: interesting stories, good quotes.
+- Cons: no scientific data, purely opinions of the author.
+
+1. **THE LAW OF THE LID** - Leadership Ability Determines a Person’s Level of Effectiveness.
+
+2. **THE LAW OF INFLUENCE** - The true measure of leadership is influence – nothing more, nothing less.
+
+3. **THE LAW OF PROCESS** - Leadership develops daily, not in a day.
+    - Champions don't become champions in a ring, they are simply recognized there.
+    - It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+
+4. **THE LAW OF NAVIGATION** - Anyone can steer the ship, but it takes a leader to chart the course.
+    - A leader is one who sees more than other see, who sees farther than other see, and who sees before others do.
+
+5. **THE LAW OF ADDITION** - Leaders add value by serving others.
+
+6. **THE LAW OF SOLID GROUND** - Trust is the Foundation of Leadership.
+
+7. **THE LAW OF RESPECT** - People naturally follow leaders stronger than themselves.
+
+8. **THE LAW OF MAGNETISM** - Who you are is who you attract.
+
+9. **THE LAW OF INTUITION** - Leaders evaluate everything with a leadership bias.
+
+10. **THE LAW OF EMPOWERMENT** - Only secure leaders give power to others.
+
+11. **THE LAW OF CONNECTION** - Leaders touch a heart before they ask for a hand.
+
+12. **THE LAW OF THE INNER CIRCLE** - A leader’s potential is determined by those closest to him.
+
+13. **THE LAW OF THE PICTURE** - People do what people see.
+
+14. **THE LAW OF BUY-IN** - People buy into the leader, then the vision.
+
+15. **THE LAW OF THE BIG MO** - Momentum is a leader’s best friend.
+
+16. **THE LAW OF VICTORY** - Leaders find a way for the team to win.
+
+17. **THE LAW OF PRIORITIES** - Leaders understand that activity is not necessarily accomplishment.
+
+18. **THE LAW OF SACRIFICE** - A leader must give up to go up.
+
+19. **THE LAW OF TIMING** - When to lead is as important as What to do and Where to go.
+
+20. **THE LAW OF EXPLOSIVE GROWTH** - To add growth, lead followers. To multiply, lead leaders.
+
+21. **THE LAW OF LEGACY** - A leader's lasting value is measured by succession.
