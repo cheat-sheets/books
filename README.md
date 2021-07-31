@@ -2,6 +2,157 @@
 
 Book summaries
 
+## High Output Management
+
+https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
+
+https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63
+
+- Borrowing from production, high output is the defining quality of good management
+- A manager's output equals the output of his organization plus the output of neighboring organizations 
+    that he influences
+- Should you be a hands on or hands off manager? It depends on whether your subordinate can deliver the desired output  
+- Motivation and training are the two main manager's tasks
+                     
+**PART 1: On Organizational Output**
+
+- **Chapter 1**: The Basics of Production
+    - Whether you're compiling code, hiring staff, convicting a criminal, or making breakfast, everything can be 
+      modeled as a repeatable production process.
+    - Understanding the elements of production — inputs, outputs, timing, limiting steps, quality controls, variability — 
+      lets us create and improve the "machinery" needed to fulfill our organizational goals. We all aim to achieve 
+      the same thing: **high quality results in less time with least waste**.
+- **Chapter 2**: Managing the Breakfast Factory
+    - Focus on vital, measurable **indicators** of output
+    - Train your team to select a **small number** of objective, quantifiable measures of output
+    - **Avoid** measures of activity, **subjective** measures and **unquantifiable** measures
+    - Your job is to identify, closely monitor and effectively manage the **vital few** indicators of performance over the **compelling many**
+
+**PART 2: On Leading Teams**
+
+- **Chapter 3**: **MANAGERIAL LEVERAGE**
+    - Managers "leverage" their time by spending small amounts to have large impact through three activities: 
+        1) information gathering
+        2) decision making
+        3) "nudging" others
+    - Doing it **right** means positive high leverage actions: 
+        1) delegation with supervision
+        2) training 
+        3) influencing processes with unique skills or knowledge 
+    - Doing it **wrong** means negative high leverage actions: 
+        1) delaying decisions 
+        2) meddling, 
+        3) abdication 
+        4) unnecessary interruption
+    - **Managerial meddling** - doing work for subordinate which makes him assume he will be helper later
+    - The normal number of subordinates for a manager who only manages people is 6 to 8. 
+      It takes a manager half a day per subordinate
+- **Chapter 4**: **MEETINGS**
+    - Process-oriented meetings:
+        - **One on one**  are used to exchange information, discuss thorny issues, uncover problems and review important but not urgent items
+        - **Staff meeting** - a meeting where a supervisor and all subordinates are present, used for free discussion, 
+          sharing of different points of view, and decision making
+        - **Operations review** - meeting where people who otherwise don't interact with each other can meet. Between peers
+    - **Mission-oriented meetings**, created ad-hoc to reach a decision
+    - Spending more than 25% of time in mission-oriented meetings is a sign of mal-organization
+- **Chapter 5**: **DECISIONS**
+    - You need to make sure everyone supports a decision, but not necessarily agrees
+    - Decisions should be made at the lowest competent level  because they are the ones who will implement it
+    - Peer group syndrome - people are afraid to speak up without a manager present 
+    - If unending loop of discussions arises then ask these 6 questions:
+        - What decision is needed? 
+        - By when? 
+        - Who should be consulted? 
+        - Who decides? 
+        - Who ratifies or vetoes? 
+        - Who needs to be informed?
+- **Chapter 6**: **PLANNING**
+    - Move towards long term plans using short-term Objectives (sub-goals) and corresponding Key Results
+    - Cascade "OKRs" across organizations, so one manager's key results might make up the objectives of their direct reports, and so on
+    - OKRs provide clarity and alignment, but they can't be run on auto-pilot. 
+      It takes judgment and common sense to guide day-to-day priorities based on OKR hierarchies.
+
+**PART 3: On Leading Enterprises**
+
+- **Chapter 7**: **As organizations grow speed decreases while leverage increases**
+    - Businesses become more complex as they grow. Duplication and redundancy increase
+    - Decisions are constantly being made on whether to 
+      - **centralize functions for consistency** and greater leverage, or 
+      - **decentralize for greater speed**
+- **Chapter 8**: **HYBRID ORGANIZATIONS**
+    - All large organizations with a common purpose end up in hybrid organization (exception: conglomerates)
+    - **Function-oriented** teams (e.g. "Recruiting", "Finance", "Human Resources") increase **leverage**, 
+    - **Objective-oriented** (e.g. "Component Business Group", "Systems Business Group") teams increase **speed**
+    - Function-oriented teams are akin to cross-cutting concerns in software engineering, e.g. logging, monitoring, security
+    - Objective-oriented teams are akin to other logical components of a software system
+- **Chapter 9**: **DUAL REPORTING**
+    - Invented at NASA as "matrix management" individuals in dual reporting structures have managers in both 
+      objective-oriented and function-oriented teams (e.g. A financial controller reports to both the Division Manager and the Director of Finance)
+    - While this solution creates complexity, the cost of complexity is outweighed by the benefits of 
+      operating in both functional and mission-oriented teams
+- **Chapter 10**: **MODES OF CONTROL**
+    - Our behavior is control by 3 invisible but pervasive means:
+        - Free market forces
+        - Contractual obligations
+        - Culture
+    - Mode of control is selected based on 
+        - Motivation of employee (**self-interested vs group interested**) and 
+        - Environment (charaterized by **CUA: Complexity, Uncertainty, Ambiguity**)
+    - Quadrant of modes of control:
+        - If self-interest is high, and CUA factors are low - market conditions mode 
+        - If group motivation is high, and CUA factors are low - contractual mode
+        - If group motivation is high, and CUA factors are high - culture
+        - If self-interest is high, and CUA factors are high - no mode of control will work
+    - It's a manager's responsibility to align team members to group interests
+
+
+**PART 4: On Leading People**
+
+- **Chapter 11**: **MOTIVATE PEOPLE**
+    - If subordinate doesn't do their job it's either because they can't do it or they don't want to do it
+    - The two most important tasks of a manager: **training** and **motivating** - lead people to self-actualuzation
+    - Needs determine motivation
+        - Maslow pyramid of needs, self-actualization is at the top of the pyramid, most other needs are self-limiting
+        - Self-actualization can be either competence driven or achievement driven. Achievement driven is better cause
+            it created results
+- **Chapter 12**: **TASK-RELEVANT MATURITY**
+    - Depending on the task-relevant maturity of an employee manager's involment should be either high with 
+      task-oriented management style, or low focused only on setting and monitoring high-level objectives.
+    - Analogy with a child learning to ride a bicycle - first he rides a three-wheeler, 
+      then you advise him to switch to a two-wheeler, support him and teach the rules. Then he leaves home and goes to college.
+- **Chapter 13**: **PERFORMANCE REVIEWS**
+    - Having an argument in English means fighting. The proper word when fighting is not implied is a debate or discussion
+    - Delivering performance review: Level, Listen and Leave yourself out
+    - Types of performance reviews:
+        - On the one hand, on the other hand
+        - The blast
+    - 5 stages of problem identified in performance review:
+        - Ignoring
+        - Denying 
+        - Accepting
+        - Assuming responsibility
+        - Finding a solution
+    - Give written review before meeting face to face so subordinate has time to prepare
+- **Chapter 14: Two difficult tasks**
+    - **Interviewing**
+        - If interviewee goes off track say, I'm sorry I'd like to change the subject to xyz, don't waste the time
+        - 4 categories of questions:
+            - Understanding their technical knowledge
+            - How he used his knowledge and skills
+            - Reasons for discrepancies between his knowledge skills and performance
+            - His values
+    - **Try to talk a valued employee out of quitting**
+        - When someone is dedicated and loyal and feels their work is unappreciated it is the failure of the manager when they decide to leave
+- **Chapter 15: COMPENSATION**
+    - Performance based vs experience based compensation
+    - Recycle high achievers who are over-promoted
+    - The art of constructive confrontation - problem solving approach
+- **Chapter 16: TRAINING**
+    - Training is the highest leverage activity a manager can do to increase the output of an organization
+    - If a manager spends 12 hours preparing training for 10 team members that increases their output by 1% on average, 
+      the result is 200 hours of increased output from the 10 employees (each works about 2000 hours a year)
+    - Don't leave training to outsiders, do it yourself
+
 ## The Selfish Gene
 
 https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
