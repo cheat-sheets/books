@@ -6,28 +6,143 @@ Book summaries
 
 https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
 
-1. Work rules for becoming a founder
+1. Work rules for becoming a **founder**
     1. Choose to think of yourself as a founder
     2. Now act like one
-2. Work Rules for building a great culture
+
+        - 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
+        - Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
+        - Romania like North Korea
+        - Freedom environment attracts top talent
+        - Managers can't make decisions unilaterally - who to hire, fire, if quality is enough, who to promote
+        - Managers serve the team - clearing roadblocks and inspiring the team
+        - Research - no operations improvements increase productivity
+        - Only giving employees freedom improved performance
+        - Make people owners
+
+2. Work Rules for building a great **culture**
     1. Think of your work as a calling with a missing that matters
     2. Give people slightly more trust, freedom and authority than you're comfortable giving them. If you're not worried then you're not giving them enough
-3. Hiring
+
+        - Larry and Sergei created most culture rules
+        - Early Google employees took initiatives e.g. opened an office in New York
+        - Culture eats strategy for breakfast
+        - 3 defining factors of culture: mission, transparency, voice
+        - Having workers meet with people they are helping can increase productivity 500%, it creates a sense of purpose. Find deeper meaning in their work
+        - Transparency. Default to open. Open source. Newly hired engineer can view all code. Hangouts On Air Q&A
+        - Late binding, sometimes there is benefit in delaying decisions - chrome and android, it's better to keep both as each one has its streamers, rather than choosing only one of them
+        - Make all calls available to everyone - Ray Dalio
+        - Privacy - user data is critical
+        - Openness and transparency if you put people first
+        - Voice - they cover tax for gays. Giving people voice improves decision making quality
+        - Google does't have servers in China because they can't sensor results, it's Google's value
+        - Treat your work as calling with a mission
+
+3. **Hiring**
     1. Given limited resources invest HR dollars in recruiting
     2. Don't let managers make hiring decisions for their own teams
-4. Finding exceptional candidates
+
+        - All hires should be above average. Hiring is the single most important activity in the org
+        - It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
+        - Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
+        - Many companies have the following strategy - hire average and train them to champions
+        - They all have average hires since they all use same processes. Most people are not good interviewers.
+        - Most interviewers are biased towards people like them.
+        - Bush met Putin, I looked him on the eye and saw his soul
+        - Einstein - change context of work to become great
+        - 90th percentile performers and they start doing work right away.
+        - Most companies don't invest enough on hiring. Repurpose training to hiring
+        - Until 2010 Google didn't pay higher. People had to take cuts when joining Google
+        - 2 big changes:
+            - Hire more slowly. Only 10% will be best performers. A top notch engineer is worth 300 times more than an average engineer. Ex. Jeff Dean. Search index in memory
+            - Only hire people who are better than you in some meaningful way
+        - Managers give up power of hiring, it reduces bias.
+        - Humility and conscientiousness are the top characteristic of a good hire
+
+4. Finding **exceptional candidates**
     1. Find the best by being excruciatingly specific in describing what you're looking for
     2. Make recruiting a part of everyone's job
-5. Work rules for selecting new employees
+
+        - Self-replicating hiring machine
+        - 3M people apply to Google per year
+        - Founders started with hiring the smartest people
+        - Realized that the should be hiring by commitee
+        - Two teams for hiring: product and engineering, marketing and sales.
+        - Back door references. If you worked or studied at the same place. 50 pages of profile after interviews.
+        - Google looks for smart generalists rather than experts.
+        - Among 100 first employees became CEOs, philanthropists, etc.
+        - Best source of candidates were referrals
+        - Increasing referral bonus didn't increase referrals
+        - Referral are made for intrinsic reasons
+        - Best people don't apply for jobs
+        - Knowable universe exercise - LinkedIn
+        - Job boards generate a lot of candidates but few hires. Bad people list their resumes on job boards
+        - 1 get the best referrals by being specific
+        - 2 get recruiting everyone's job
+        - 3 don't be afraid to experiment to attract top talent
+
+5. Work rules for **selecting new employees**
     1. Set high bar for quality
     2. Find your own candidates
     3. Assess candidates objectively
     4. Give candidates a reason to join
-6. Work rules for mass empowerment
+
+        - Study shows the first 10 seconds predict the outcome of the interview
+          - Unstructured interviews can explain 14% of job performance. R of 0.14
+          - Reference checks - 7%
+          - Number of years of work experience - 3%
+          - Work sample test - 29% (representative work sample is hard to create)
+          - Test of general cognitive ability - 26%
+          - Structured interviews 26% behavioral, situational questions
+          - Test of conscientiousness - 10%
+        - Q droid - internal service at Google for finding interview questions for a position
+        - Vox populi - feedback from candidates
+        - 4 attributes are tested during the interview process
+          - General cognitive ability
+          - Leadership, emergent leadership. Google is against leaders who champion themselves
+          - Googleness - fun, ok with ambiguity, courage
+          - Role related knowledge
+        - Later Google moved to balance of generalists and experts
+        - Each interviewer reports
+          - Attribute being assessed
+          - Question and answer
+          - Interviewers assessment
+        - Constantly check that interview works
+        - Same as other products improve, so does the hiring machine
+        - Rule of 4 interviews
+        - Median time to hire 37 days
+        - Interviewers are evaluated too. They can see their assessment and whether candidate was hired
+        - Never compromise on quality
+        - Only recruiters evaluate resumes
+        - After screening, phone interviews
+          - 3 subordinate interview
+          - 4 cross-functional interview, e.g. legal to interview sales
+          - 5 feedback is evaluated by committee
+          - 6 rely on disinterested interviewers
+        - Larry personally reviews applications
+        - 4 to 10 hours is spent on hiring for each employee
+        - Top executives spent a full day on it
+        - Time spent is reduced over time
+
+6. Work rules for **mass empowerment**
     1. Eliminate status symbols
     2. Make decisions based on data not based on managers opinions
     3. Find ways for people to shape their work and the company
-7. Work rules for performance management
+
+        - AB testing, 1% tests
+        - Same for people. Upward management feedback
+        - Creativity needs freedom, 20% of week focus on projects they like
+        - The idea of 20% rather than reality, not policy
+        - Paul Buchheit worked on Gmail for 2.5 years. Google thought it's too far from search
+        - Meritocratic, bonus is based on median salary not personal
+        - Googlegeist - annual survey, 100 questions. Confidentially or anonymously - no personally identified
+        - 5 questions that correlate with people quitting
+        - Ethos of simplification, improve recognition of people simplifying code. Talks, education
+        - Partnered with people operations to make sure it's accounted for in performance reviews
+        - Citizenship awards for people who simplify
+        - Bureaucracy busters. Don't require paper receipts
+
+7. Work rules for **performance management**
     1. Set goals correctly
     2. Gather peer feedback
     3. Use a calibration process to finalise ratings
@@ -73,7 +188,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
 
 The results of Google's Project Oxygen research https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/. 
 
-10 behaviour that are common among their highest performing managers:
+10 behaviours that are common among their highest performing managers:
 
 1. Is a good coach
 2. Empowers team and does not micromanage
@@ -367,7 +482,7 @@ https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
     - **Haplodiploidy** is a sex-determination system in which males develop from unfertilized eggs and are haploid, 
       and females develop from fertilized eggs and are diploid.
     - Some ants farm fungi on leaves. Farming in other sense means that worker bees farm their genes on the queen bee.
-- **Chapter 10: You Scratch My Back, I’ll Ride on Yours**  
+- **Chapter 10: You Scratch My Back, I'll Ride on Yours**  
     - Bees cheats suckers grudgers. 
       Grudgers are tit for tat, remove ticks from head of others. 
       Grudgers will win but some cheats will be left.
@@ -611,7 +726,7 @@ This will help you to avoid wasting time on building products that no one needs.
        in fact there is a human behind the scenes doing the work.
 
 - **Measure**
-    - Don't use vanity metrics - gross number of customers, revenue. It doesn’t tell you if actions of 
+    - Don't use vanity metrics - gross number of customers, revenue. It doesn't tell you if actions of 
       the entrepreneurial team have any positive effect.
     - [Grockit](https://en.wikipedia.org/wiki/Grockit), an online social learning game company, used split testing 
       to find out if their initiatives work. Ceased to exist in 2016.
@@ -653,10 +768,10 @@ To get rid of anxiety or stress just starting making steps towards fixing what c
 1. **Prepare More Than You Need**
     - In the course of one season an oak tree will drop thousands of acorns. Why? All it takes to safely reproduce itself and continue to oak species is a single acorn. So what are all those others? Rough drafts.
     - When directors film a movie, they spend many hours and sometimes days filming a 1-minute scene over and over again. The same scene can be shot over twenty times, but eventually, only one clip is chosen. 
-    - Pilots run dozens or even hundreds of what-if scenarios: What to do if an engine goes out; if there’s an electrical problem; if communications go down and more. 
+    - Pilots run dozens or even hundreds of what-if scenarios: What to do if an engine goes out; if there's an electrical problem; if communications go down and more. 
 
 2. **True Safety is an Illusion**
-    - Fear is awareness of danger, right? And naturally, you want to keep yourself safe, correct? Ah, but that’s a trap! And within that trap is a secret, one that might be uncomfortable to hear but will liberate you if you let it: You’re never safe.
+    - Fear is awareness of danger, right? And naturally, you want to keep yourself safe, correct? Ah, but that's a trap! And within that trap is a secret, one that might be uncomfortable to hear but will liberate you if you let it: You're never safe.
     - Every great gain, for humanity as a whole or for you or me in our own lives, has come about only through risk.
     
 3. **Trust Your Gut and Jump**
@@ -789,7 +904,7 @@ https://www.amazon.com/21-Irrefutable-Laws-Leadership-Anniversary/dp/149151311X
 - Pros: interesting stories, good quotes.
 - Cons: no scientific data, purely opinions of the author.
 
-1. **THE LAW OF THE LID** - Leadership Ability Determines a Person’s Level of Effectiveness.
+1. **THE LAW OF THE LID** - Leadership Ability Determines a Person's Level of Effectiveness.
 
 2. **THE LAW OF INFLUENCE** - The true measure of leadership is influence – nothing more, nothing less.
 
@@ -814,13 +929,13 @@ https://www.amazon.com/21-Irrefutable-Laws-Leadership-Anniversary/dp/149151311X
 
 11. **THE LAW OF CONNECTION** - Leaders touch a heart before they ask for a hand.
 
-12. **THE LAW OF THE INNER CIRCLE** - A leader’s potential is determined by those closest to him.
+12. **THE LAW OF THE INNER CIRCLE** - A leader's potential is determined by those closest to him.
 
 13. **THE LAW OF THE PICTURE** - People do what people see.
 
 14. **THE LAW OF BUY-IN** - People buy into the leader, then the vision.
 
-15. **THE LAW OF THE BIG MO** - Momentum is a leader’s best friend.
+15. **THE LAW OF THE BIG MO** - Momentum is a leader's best friend.
 
 16. **THE LAW OF VICTORY** - Leaders find a way for the team to win.
 
