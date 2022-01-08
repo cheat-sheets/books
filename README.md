@@ -2,6 +2,90 @@
 
 Book summaries
 
+## Work Rules!
+
+https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
+
+1. Work rules for becoming a founder
+    1. Choose to think of yourself as a founder
+    2. Now act like one
+2. Work Rules for building a great culture
+    1. Think of your work as a calling with a missing that matters
+    2. Give people slightly more trust, freedom and authority than you're comfortable giving them. If you're not worried then you're not giving them enough
+3. Hiring
+    1. Given limited resources invest HR dollars in recruiting
+    2. Don't let managers make hiring decisions for their own teams
+4. Finding exceptional candidates
+    1. Find the best by being excruciatingly specific in describing what you're looking for
+    2. Make recruiting a part of everyone's job
+5. Work rules for selecting new employees
+    1. Set high bar for quality
+    2. Find your own candidates
+    3. Assess candidates objectively
+    4. Give candidates a reason to join
+6. Work rules for mass empowerment
+    1. Eliminate status symbols
+    2. Make decisions based on data not based on managers opinions
+    3. Find ways for people to shape their work and the company
+7. Work rules for performance management
+    1. Set goals correctly
+    2. Gather peer feedback
+    3. Use a calibration process to finalise ratings
+    4. Split reward conversations from development conversations
+8. Work rules for managing your 2 tails
+    1. Help those in need
+    2. Put your best people under a microscope
+    3. Use surveys to find the truth, nudge people to improve
+    4. Set a personal example by sharing and acting on your own feedback
+9. Work rules for building a learning institution
+    1. Engage in delivering practice, break lessons down into small digestible pieces
+    2. Have your best people teach
+    3. Invest only in courses that you can prove change peoples behaviour
+10. Work rules for paying unfairly
+    1. Swallow hard and pay unfairly, power law distribution of performance
+    2. Celebrate accomplishment not compensation
+    3. Make it easy  to spread the love
+    4. Reward thoughtful failure
+11. Work rules for efficiency, community and innovation
+    1. Make life easier for employees
+    2. Find ways to say yes
+    3. The bad stuff in life happens rarely, be there when it does
+12. Work rules for nudging toward health, wealth and happiness
+    1. Recognise the difference between what is and what aught to be
+    2. Run lots of small experiments
+    3. Nudge, don't shove
+13. Work rules for screwing up
+    1. Admit your mistake, be transparent about it
+    2. Take counsel from all directions
+    3. Fix whatever broke
+    4. Find the moral in the mistake and teach it
+14. Work rules
+    1. Give your work meaning
+    2. Trust your people
+    3. Hire only people who are better than you
+    4. Don't confuse development with managing performance
+    5. Focus on the 2 tails
+    6. Be frugal and generous
+    7. Pay unfairly
+    8. Nudge
+    9. Manage the rising expectations
+    10. Enjoy
+
+The results of Google's Project Oxygen research https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/. 
+
+10 behaviour that are common among their highest performing managers:
+
+1. Is a good coach
+2. Empowers team and does not micromanage
+3. Creates an inclusive team environment, showing concern for success and well-being
+4. Is productive and results-oriented
+5. Is a good communicator — listens and shares information
+6. Supports career development and discusses performance
+7. Has a clear vision/strategy for the team
+8. Has key technical skills to help advise the team
+9. Collaborates across Google
+10. Is a strong decision maker
+
 ## High Output Management
 
 https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884
