@@ -191,8 +191,69 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Bureaucracy busters. Don't require paper receipts
 
 7. Work rules for **performance management**
-8. Work rules for managing your 2 tails
+        - Improve performance by focusing on personal growth instead of ratings and rewards
+        - Concerns - takes too much time, not transparent, not fair
+        - OKRs are public to the company
+        - Measuring performance
+        - 41 point scale. Average 3.3 and 3.4 
+        - Tried with different parameters, tried different number of grades: 3 to 50 grades. Yearly, quarterly, real time
+        - (1) Consensus impossible, (2) Desire for seriousness, (3) Experimentation important
+        - Having more categories - with 15 categories, employees decided they had fewer superb performers. with 5 categories had 5% superb performers
+        - Calibration - removes sources of individual bias. Recency bias, hand out common errors to reduce bias
+        - Ratings are tools for fairness, pay more for more work
+        - Avoid defensiveness, promote learning
+        - Intrinsic motivation drives performance, external motivation removed internal motivation. Study about assembling puzzle
+        - With ratings there is incentive to gamble the system
+        - Performance evaluation is separate from development evaluation
+        - Every time you open your mouth you add value
+        - Promotions are reviewed by committees, fairness. Googlers nominate themselves
+        - Colleges and partnerships spend a lot of time on performance reviews
+        - Set goals correctly public ambitious
+        - Gather peer feedback
+        - For evaluation adapt calibration, meetings to review profiles
+        - Split reward conversations from development conversations, combining them kills learning
+
+8. Work rules for managing your **2 tails**: the best opportunities lie in best and worst employees
+        - Height - gaussian, bell curve, applied in cases where it doesn't fit
+        - Power law - letter L
+        - Most companies treat employees as bell curve distribution. But the tails aren't symmetrical, bad employees 
+          get fired, the worst don't even make it in the door. Human performance follows power law distribution
+        - Most companies undervalue and underpay their best people
+        - People in the bottom tail present biggest opportunity. In GM bottom 10% get fired, you either move up or move out
+        - Google tracks 5% of bottom performance. They let them know that they are in the bottom 5%
+        - Typically lack of skill, or will, not motivated. Google de-emphasize role related hiring. They believe people will figure out their place
+        - Google only intervent to bottom 5% people
+        - Put best people under microscope
+        - Project oxygen, what if everyone had an amazing manager. Manager quality didn't have an effect on performance 
+        - Engineers believe that managers don't matter. In 2011 Larry and Sergei eliminated managers. Within 6 weeks were reinstated
+        - Manager has to be at least as technically capable as their team. No-op manager otherwise
+        - Engineers moved from worst to best managers and visa versa, it showed engineers performance improved
+        - Checklist in airplane saved lives
+        - Semi annual upper feedback
+        - Help those in need
+        - Put your best people under microscope
+        - Use surveys and checklists to surface the truth and nudge people to tell the truth
+        - Have people who are best train everyone else
+
 9. Work rules for building a learning institution
+        - It's better to deliver less content but make sure it sticks
+        - Teaching scales geometrically, individual linearly
+        - It's better to learn from people who work today
+        - Googler mindfulness, improves decision making
+        - G to g knowledge sharing between googlers
+        - Presenting with charisma
+        - I2p intro to programming to non engineers
+        - Rebecca Cotton career guru
+        - Leadership sales gurus
+        - Only invest in courses that change behavior
+        - Stories are key to teaching
+        - Behavior, Results
+        - Experiment to measure the results, try on one group and compare to another
+        - 3 rules:
+             1. Engage in deliberate practice, break lessons down to small digestible pieces and do them repeatedly, improve via feedback
+             2. Have your best people teach
+             3. Invest only course that can change people behaviour, and you can prove it
+
 10. Work rules for paying unfairly
 11. Work rules for efficiency, community and innovation
 12. Work rules for nudging toward health, wealth and happiness
