@@ -9,139 +9,24 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
 1. Work rules for becoming a **founder**
     1. Choose to think of yourself as a founder
     2. Now act like one
-
-        - 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
-        - Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
-        - Romania like North Korea
-        - Freedom environment attracts top talent
-        - Managers can't make decisions unilaterally - who to hire, fire, if quality is enough, who to promote
-        - Managers serve the team - clearing roadblocks and inspiring the team
-        - Research - no operations improvements increase productivity
-        - Only giving employees freedom improved performance
-        - Make people owners
-
 2. Work Rules for building a great **culture**
     1. Think of your work as a calling with a missing that matters
     2. Give people slightly more trust, freedom and authority than you're comfortable giving them. If you're not worried then you're not giving them enough
-
-        - Larry and Sergei created most culture rules
-        - Early Google employees took initiatives e.g. opened an office in New York
-        - Culture eats strategy for breakfast
-        - 3 defining factors of culture: mission, transparency, voice
-        - Having workers meet with people they are helping can increase productivity 500%, it creates a sense of purpose. Find deeper meaning in their work
-        - Transparency. Default to open. Open source. Newly hired engineer can view all code. Hangouts On Air Q&A
-        - Late binding, sometimes there is benefit in delaying decisions - chrome and android, it's better to keep both as each one has its streamers, rather than choosing only one of them
-        - Make all calls available to everyone - Ray Dalio
-        - Privacy - user data is critical
-        - Openness and transparency if you put people first
-        - Voice - they cover tax for gays. Giving people voice improves decision making quality
-        - Google does't have servers in China because they can't sensor results, it's Google's value
-        - Treat your work as calling with a mission
-
 3. **Hiring**
     1. Given limited resources invest HR dollars in recruiting
     2. Don't let managers make hiring decisions for their own teams
-
-        - All hires should be above average. Hiring is the single most important activity in the org
-        - It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
-        - Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
-        - Many companies have the following strategy - hire average and train them to champions
-        - They all have average hires since they all use same processes. Most people are not good interviewers.
-        - Most interviewers are biased towards people like them.
-        - Bush met Putin, I looked him on the eye and saw his soul
-        - Einstein - change context of work to become great
-        - 90th percentile performers and they start doing work right away.
-        - Most companies don't invest enough on hiring. Repurpose training to hiring
-        - Until 2010 Google didn't pay higher. People had to take cuts when joining Google
-        - 2 big changes:
-            - Hire more slowly. Only 10% will be best performers. A top notch engineer is worth 300 times more than an average engineer. Ex. Jeff Dean. Search index in memory
-            - Only hire people who are better than you in some meaningful way
-        - Managers give up power of hiring, it reduces bias.
-        - Humility and conscientiousness are the top characteristic of a good hire
-
 4. Finding **exceptional candidates**
     1. Find the best by being excruciatingly specific in describing what you're looking for
     2. Make recruiting a part of everyone's job
-
-        - Self-replicating hiring machine
-        - 3M people apply to Google per year
-        - Founders started with hiring the smartest people
-        - Realized that the should be hiring by commitee
-        - Two teams for hiring: product and engineering, marketing and sales.
-        - Back door references. If you worked or studied at the same place. 50 pages of profile after interviews.
-        - Google looks for smart generalists rather than experts.
-        - Among 100 first employees became CEOs, philanthropists, etc.
-        - Best source of candidates were referrals
-        - Increasing referral bonus didn't increase referrals
-        - Referral are made for intrinsic reasons
-        - Best people don't apply for jobs
-        - Knowable universe exercise - LinkedIn
-        - Job boards generate a lot of candidates but few hires. Bad people list their resumes on job boards
-        - 1 get the best referrals by being specific
-        - 2 get recruiting everyone's job
-        - 3 don't be afraid to experiment to attract top talent
-
 5. Work rules for **selecting new employees**
     1. Set high bar for quality
     2. Find your own candidates
     3. Assess candidates objectively
     4. Give candidates a reason to join
-
-        - Study shows the first 10 seconds predict the outcome of the interview
-          - Unstructured interviews can explain 14% of job performance. R of 0.14
-          - Reference checks - 7%
-          - Number of years of work experience - 3%
-          - Work sample test - 29% (representative work sample is hard to create)
-          - Test of general cognitive ability - 26%
-          - Structured interviews 26% behavioral, situational questions
-          - Test of conscientiousness - 10%
-        - Q droid - internal service at Google for finding interview questions for a position
-        - Vox populi - feedback from candidates
-        - 4 attributes are tested during the interview process
-          - General cognitive ability
-          - Leadership, emergent leadership. Google is against leaders who champion themselves
-          - Googleness - fun, ok with ambiguity, courage
-          - Role related knowledge
-        - Later Google moved to balance of generalists and experts
-        - Each interviewer reports
-          - Attribute being assessed
-          - Question and answer
-          - Interviewers assessment
-        - Constantly check that interview works
-        - Same as other products improve, so does the hiring machine
-        - Rule of 4 interviews
-        - Median time to hire 37 days
-        - Interviewers are evaluated too. They can see their assessment and whether candidate was hired
-        - Never compromise on quality
-        - Only recruiters evaluate resumes
-        - After screening, phone interviews
-          - 3 subordinate interview
-          - 4 cross-functional interview, e.g. legal to interview sales
-          - 5 feedback is evaluated by committee
-          - 6 rely on disinterested interviewers
-        - Larry personally reviews applications
-        - 4 to 10 hours is spent on hiring for each employee
-        - Top executives spent a full day on it
-        - Time spent is reduced over time
-
 6. Work rules for **mass empowerment**
     1. Eliminate status symbols
     2. Make decisions based on data not based on managers opinions
     3. Find ways for people to shape their work and the company
-
-        - AB testing, 1% tests
-        - Same for people. Upward management feedback
-        - Creativity needs freedom, 20% of week focus on projects they like
-        - The idea of 20% rather than reality, not policy
-        - Paul Buchheit worked on Gmail for 2.5 years. Google thought it's too far from search
-        - Meritocratic, bonus is based on median salary not personal
-        - Googlegeist - annual survey, 100 questions. Confidentially or anonymously - no personally identified
-        - 5 questions that correlate with people quitting
-        - Ethos of simplification, improve recognition of people simplifying code. Talks, education
-        - Partnered with people operations to make sure it's accounted for in performance reviews
-        - Citizenship awards for people who simplify
-        - Bureaucracy busters. Don't require paper receipts
-
 7. Work rules for **performance management**
     1. Set goals correctly
     2. Gather peer feedback
@@ -185,6 +70,136 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
     8. Nudge
     9. Manage the rising expectations
     10. Enjoy
+
+---
+
+**Detailed notes**:
+
+1. Work rules for becoming a **founder**
+        - 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
+        - Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
+        - Romania like North Korea
+        - Freedom environment attracts top talent
+        - Managers can't make decisions unilaterally - who to hire, fire, if quality is enough, who to promote
+        - Managers serve the team - clearing roadblocks and inspiring the team
+        - Research - no operations improvements increase productivity
+        - Only giving employees freedom improved performance
+        - Make people owners
+
+2. Work Rules for building a great **culture**
+        - Larry and Sergei created most culture rules
+        - Early Google employees took initiatives e.g. opened an office in New York
+        - Culture eats strategy for breakfast
+        - 3 defining factors of culture: mission, transparency, voice
+        - Having workers meet with people they are helping can increase productivity 500%, it creates a sense of purpose. Find deeper meaning in their work
+        - Transparency. Default to open. Open source. Newly hired engineer can view all code. Hangouts On Air Q&A
+        - Late binding, sometimes there is benefit in delaying decisions - chrome and android, it's better to keep both as each one has its streamers, rather than choosing only one of them
+        - Make all calls available to everyone - Ray Dalio
+        - Privacy - user data is critical
+        - Openness and transparency if you put people first
+        - Voice - they cover tax for gays. Giving people voice improves decision making quality
+        - Google does't have servers in China because they can't sensor results, it's Google's value
+        - Treat your work as calling with a mission
+
+3. **Hiring**
+        - All hires should be above average. Hiring is the single most important activity in the org
+        - It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
+        - Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
+        - Many companies have the following strategy - hire average and train them to champions
+        - They all have average hires since they all use same processes. Most people are not good interviewers.
+        - Most interviewers are biased towards people like them.
+        - Bush met Putin, I looked him on the eye and saw his soul
+        - Einstein - change context of work to become great
+        - 90th percentile performers and they start doing work right away.
+        - Most companies don't invest enough on hiring. Repurpose training to hiring
+        - Until 2010 Google didn't pay higher. People had to take cuts when joining Google
+        - 2 big changes:
+            - Hire more slowly. Only 10% will be best performers. A top notch engineer is worth 300 times more than an average engineer. Ex. Jeff Dean. Search index in memory
+            - Only hire people who are better than you in some meaningful way
+        - Managers give up power of hiring, it reduces bias.
+        - Humility and conscientiousness are the top characteristic of a good hire
+
+4. Finding **exceptional candidates**
+        - Self-replicating hiring machine
+        - 3M people apply to Google per year
+        - Founders started with hiring the smartest people
+        - Realized that the should be hiring by commitee
+        - Two teams for hiring: product and engineering, marketing and sales.
+        - Back door references. If you worked or studied at the same place. 50 pages of profile after interviews.
+        - Google looks for smart generalists rather than experts.
+        - Among 100 first employees became CEOs, philanthropists, etc.
+        - Best source of candidates were referrals
+        - Increasing referral bonus didn't increase referrals
+        - Referral are made for intrinsic reasons
+        - Best people don't apply for jobs
+        - Knowable universe exercise - LinkedIn
+        - Job boards generate a lot of candidates but few hires. Bad people list their resumes on job boards
+        - 1 get the best referrals by being specific
+        - 2 get recruiting everyone's job
+        - 3 don't be afraid to experiment to attract top talent
+
+5. Work rules for **selecting new employees**
+        - Study shows the first 10 seconds predict the outcome of the interview
+            - Unstructured interviews can explain 14% of job performance. R of 0.14
+            - Reference checks - 7%
+            - Number of years of work experience - 3%
+            - Work sample test - 29% (representative work sample is hard to create)
+            - Test of general cognitive ability - 26%
+            - Structured interviews 26% behavioral, situational questions
+            - Test of conscientiousness - 10%
+        - Q droid - internal service at Google for finding interview questions for a position
+        - Vox populi - feedback from candidates
+        - 4 attributes are tested during the interview process
+            - General cognitive ability
+            - Leadership, emergent leadership. Google is against leaders who champion themselves
+            - Googleness - fun, ok with ambiguity, courage
+            - Role related knowledge
+        - Later Google moved to balance of generalists and experts
+        - Each interviewer reports
+            - Attribute being assessed
+            - Question and answer
+            - Interviewers assessment
+        - Constantly check that interview works
+        - Same as other products improve, so does the hiring machine
+        - Rule of 4 interviews
+        - Median time to hire 37 days
+        - Interviewers are evaluated too. They can see their assessment and whether candidate was hired
+        - Never compromise on quality
+        - Only recruiters evaluate resumes
+        - After screening, phone interviews
+            - 3 subordinate interview
+            - 4 cross-functional interview, e.g. legal to interview sales
+            - 5 feedback is evaluated by committee
+            - 6 rely on disinterested interviewers
+        - Larry personally reviews applications
+        - 4 to 10 hours is spent on hiring for each employee
+        - Top executives spent a full day on it
+        - Time spent is reduced over time
+
+6. Work rules for **mass empowerment**
+        - AB testing, 1% tests
+        - Same for people. Upward management feedback
+        - Creativity needs freedom, 20% of week focus on projects they like
+        - The idea of 20% rather than reality, not policy
+        - Paul Buchheit worked on Gmail for 2.5 years. Google thought it's too far from search
+        - Meritocratic, bonus is based on median salary not personal
+        - Googlegeist - annual survey, 100 questions. Confidentially or anonymously - no personally identified
+        - 5 questions that correlate with people quitting
+        - Ethos of simplification, improve recognition of people simplifying code. Talks, education
+        - Partnered with people operations to make sure it's accounted for in performance reviews
+        - Citizenship awards for people who simplify
+        - Bureaucracy busters. Don't require paper receipts
+
+7. Work rules for **performance management**
+8. Work rules for managing your 2 tails
+9. Work rules for building a learning institution
+10. Work rules for paying unfairly
+11. Work rules for efficiency, community and innovation
+12. Work rules for nudging toward health, wealth and happiness
+13. Work rules for screwing up
+14. Work rules
+
+---
 
 The results of Google's Project Oxygen research https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/. 
 
