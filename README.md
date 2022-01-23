@@ -104,6 +104,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Treat your work as calling with a mission
 
 3. **Hiring**
+
         - All hires should be above average. Hiring is the single most important activity in the org
         - It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
         - Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
@@ -122,6 +123,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Humility and conscientiousness are the top characteristic of a good hire
 
 4. Finding **exceptional candidates**
+
         - Self-replicating hiring machine
         - 3M people apply to Google per year
         - Founders started with hiring the smartest people
@@ -141,6 +143,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - 3 don't be afraid to experiment to attract top talent
 
 5. Work rules for **selecting new employees**
+
         - Study shows the first 10 seconds predict the outcome of the interview
             - Unstructured interviews can explain 14% of job performance. R of 0.14
             - Reference checks - 7%
@@ -179,6 +182,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Time spent is reduced over time
 
 6. Work rules for **mass empowerment**
+
         - AB testing, 1% tests
         - Same for people. Upward management feedback
         - Creativity needs freedom, 20% of week focus on projects they like
@@ -193,6 +197,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Bureaucracy busters. Don't require paper receipts
 
 7. Work rules for **performance management**
+
         - Improve performance by focusing on personal growth instead of ratings and rewards
         - Concerns - takes too much time, not transparent, not fair
         - OKRs are public to the company
@@ -216,6 +221,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Split reward conversations from development conversations, combining them kills learning
 
 8. Work rules for managing your **2 tails**: the best opportunities lie in best and worst employees
+
         - Height - gaussian, bell curve, applied in cases where it doesn't fit
         - Power law - letter L
         - Most companies treat employees as bell curve distribution. But the tails aren't symmetrical, bad employees 
@@ -238,23 +244,24 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Have people who are best train everyone else
 
 9. Work rules for building a learning institution
-        - It's better to deliver less content but make sure it sticks
-        - Teaching scales geometrically, individual linearly
-        - It's better to learn from people who work today
-        - Googler mindfulness, improves decision making
-        - G to g knowledge sharing between googlers
-        - Presenting with charisma
-        - I2p intro to programming to non engineers
-        - Rebecca Cotton career guru
-        - Leadership sales gurus
-        - Only invest in courses that change behavior
-        - Stories are key to teaching
-        - Behavior, Results
-        - Experiment to measure the results, try on one group and compare to another
-        - 3 rules:
-             1. Engage in deliberate practice, break lessons down to small digestible pieces and do them repeatedly, improve via feedback
-             2. Have your best people teach
-             3. Invest only course that can change people behaviour, and you can prove it
+
+         - It's better to deliver less content but make sure it sticks
+         - Teaching scales geometrically, individual linearly
+         - It's better to learn from people who work today
+         - Googler mindfulness, improves decision making
+         - G to g knowledge sharing between googlers
+         - Presenting with charisma
+         - I2p intro to programming to non engineers
+         - Rebecca Cotton career guru
+         - Leadership sales gurus
+         - Only invest in courses that change behavior
+         - Stories are key to teaching
+         - Behavior, Results
+         - Experiment to measure the results, try on one group and compare to another
+         - 3 rules:
+              1. Engage in deliberate practice, break lessons down to small digestible pieces and do them repeatedly, improve via feedback
+              2. Have your best people teach
+              3. Invest only course that can change people behaviour, and you can prove it
 
 10. Work rules for paying unfairly
 11. Work rules for efficiency, community and innovation
