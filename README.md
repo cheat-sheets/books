@@ -76,6 +76,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
 **Detailed notes**:
 
 1. Work rules for becoming a **founder**
+
         - 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
         - Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
         - Romania like North Korea
@@ -87,6 +88,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
         - Make people owners
 
 2. Work Rules for building a great **culture**
+
         - Larry and Sergei created most culture rules
         - Early Google employees took initiatives e.g. opened an office in New York
         - Culture eats strategy for breakfast
