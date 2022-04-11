@@ -77,191 +77,191 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
 
 1. Work rules for becoming a **founder**
 
-        - 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
-        - Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
-        - Romania like North Korea
-        - Freedom environment attracts top talent
-        - Managers can't make decisions unilaterally - who to hire, fire, if quality is enough, who to promote
-        - Managers serve the team - clearing roadblocks and inspiring the team
-        - Research - no operations improvements increase productivity
-        - Only giving employees freedom improved performance
-        - Make people owners
+- 20/70/10 performance ranking. 20% top performance, 70% - normal performance, 10% - fired
+- Jack Welch - 6 sigma https://en.wikipedia.org/wiki/Six_Sigma
+- Romania like North Korea
+- Freedom environment attracts top talent
+- Managers can't make decisions unilaterally - who to hire, fire, if quality is enough, who to promote
+- Managers serve the team - clearing roadblocks and inspiring the team
+- Research - no operations improvements increase productivity
+- Only giving employees freedom improved performance
+- Make people owners
 
 2. Work Rules for building a great **culture**
 
-        - Larry and Sergei created most culture rules
-        - Early Google employees took initiatives e.g. opened an office in New York
-        - Culture eats strategy for breakfast
-        - 3 defining factors of culture: mission, transparency, voice
-        - Having workers meet with people they are helping can increase productivity 500%, it creates a sense of purpose. Find deeper meaning in their work
-        - Transparency. Default to open. Open source. Newly hired engineer can view all code. Hangouts On Air Q&A
-        - Late binding, sometimes there is benefit in delaying decisions - chrome and android, it's better to keep both as each one has its streamers, rather than choosing only one of them
-        - Make all calls available to everyone - Ray Dalio
-        - Privacy - user data is critical
-        - Openness and transparency if you put people first
-        - Voice - they cover tax for gays. Giving people voice improves decision making quality
-        - Google does't have servers in China because they can't sensor results, it's Google's value
-        - Treat your work as calling with a mission
+- Larry and Sergei created most culture rules
+- Early Google employees took initiatives e.g. opened an office in New York
+- Culture eats strategy for breakfast
+- 3 defining factors of culture: mission, transparency, voice
+- Having workers meet with people they are helping can increase productivity 500%, it creates a sense of purpose. Find deeper meaning in their work
+- Transparency. Default to open. Open source. Newly hired engineer can view all code. Hangouts On Air Q&A
+- Late binding, sometimes there is benefit in delaying decisions - chrome and android, it's better to keep both as each one has its streamers, rather than choosing only one of them
+- Make all calls available to everyone - Ray Dalio
+- Privacy - user data is critical
+- Openness and transparency if you put people first
+- Voice - they cover tax for gays. Giving people voice improves decision making quality
+- Google does't have servers in China because they can't sensor results, it's Google's value
+- Treat your work as calling with a mission
 
 3. **Hiring**
 
-        - All hires should be above average. Hiring is the single most important activity in the org
-        - It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
-        - Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
-        - Many companies have the following strategy - hire average and train them to champions
-        - They all have average hires since they all use same processes. Most people are not good interviewers.
-        - Most interviewers are biased towards people like them.
-        - Bush met Putin, I looked him on the eye and saw his soul
-        - Einstein - change context of work to become great
-        - 90th percentile performers and they start doing work right away.
-        - Most companies don't invest enough on hiring. Repurpose training to hiring
-        - Until 2010 Google didn't pay higher. People had to take cuts when joining Google
-        - 2 big changes:
-            - Hire more slowly. Only 10% will be best performers. A top notch engineer is worth 300 times more than an average engineer. Ex. Jeff Dean. Search index in memory
-            - Only hire people who are better than you in some meaningful way
-        - Managers give up power of hiring, it reduces bias.
-        - Humility and conscientiousness are the top characteristic of a good hire
+- All hires should be above average. Hiring is the single most important activity in the org
+- It's been tested in baseball. Highest paying team wins often but not all the time. Moneyball - data analytics.
+- Acquihiring - destroying companies, bringing people to your company. A way to hire great people who otherwise wouldn't join you. Yahoo paid 30M for Summly https://www.wired.com/2013/03/yahoo-summly/
+- Many companies have the following strategy - hire average and train them to champions
+- They all have average hires since they all use same processes. Most people are not good interviewers.
+- Most interviewers are biased towards people like them.
+- Bush met Putin, I looked him on the eye and saw his soul
+- Einstein - change context of work to become great
+- 90th percentile performers and they start doing work right away.
+- Most companies don't invest enough on hiring. Repurpose training to hiring
+- Until 2010 Google didn't pay higher. People had to take cuts when joining Google
+- 2 big changes:
+    - Hire more slowly. Only 10% will be best performers. A top notch engineer is worth 300 times more than an average engineer. Ex. Jeff Dean. Search index in memory
+    - Only hire people who are better than you in some meaningful way
+- Managers give up power of hiring, it reduces bias.
+- Humility and conscientiousness are the top characteristic of a good hire
 
 4. Finding **exceptional candidates**
 
-        - Self-replicating hiring machine
-        - 3M people apply to Google per year
-        - Founders started with hiring the smartest people
-        - Realized that the should be hiring by commitee
-        - Two teams for hiring: product and engineering, marketing and sales.
-        - Back door references. If you worked or studied at the same place. 50 pages of profile after interviews.
-        - Google looks for smart generalists rather than experts.
-        - Among 100 first employees became CEOs, philanthropists, etc.
-        - Best source of candidates were referrals
-        - Increasing referral bonus didn't increase referrals
-        - Referral are made for intrinsic reasons
-        - Best people don't apply for jobs
-        - Knowable universe exercise - LinkedIn
-        - Job boards generate a lot of candidates but few hires. Bad people list their resumes on job boards
-        - 1 get the best referrals by being specific
-        - 2 get recruiting everyone's job
-        - 3 don't be afraid to experiment to attract top talent
+- Self-replicating hiring machine
+- 3M people apply to Google per year
+- Founders started with hiring the smartest people
+- Realized that the should be hiring by commitee
+- Two teams for hiring: product and engineering, marketing and sales.
+- Back door references. If you worked or studied at the same place. 50 pages of profile after interviews.
+- Google looks for smart generalists rather than experts.
+- Among 100 first employees became CEOs, philanthropists, etc.
+- Best source of candidates were referrals
+- Increasing referral bonus didn't increase referrals
+- Referral are made for intrinsic reasons
+- Best people don't apply for jobs
+- Knowable universe exercise - LinkedIn
+- Job boards generate a lot of candidates but few hires. Bad people list their resumes on job boards
+- 1 get the best referrals by being specific
+- 2 get recruiting everyone's job
+- 3 don't be afraid to experiment to attract top talent
 
 5. Work rules for **selecting new employees**
 
-        - Study shows the first 10 seconds predict the outcome of the interview
-            - Unstructured interviews can explain 14% of job performance. R of 0.14
-            - Reference checks - 7%
-            - Number of years of work experience - 3%
-            - Work sample test - 29% (representative work sample is hard to create)
-            - Test of general cognitive ability - 26%
-            - Structured interviews 26% behavioral, situational questions
-            - Test of conscientiousness - 10%
-        - Q droid - internal service at Google for finding interview questions for a position
-        - Vox populi - feedback from candidates
-        - 4 attributes are tested during the interview process
-            - General cognitive ability
-            - Leadership, emergent leadership. Google is against leaders who champion themselves
-            - Googleness - fun, ok with ambiguity, courage
-            - Role related knowledge
-        - Later Google moved to balance of generalists and experts
-        - Each interviewer reports
-            - Attribute being assessed
-            - Question and answer
-            - Interviewers assessment
-        - Constantly check that interview works
-        - Same as other products improve, so does the hiring machine
-        - Rule of 4 interviews
-        - Median time to hire 37 days
-        - Interviewers are evaluated too. They can see their assessment and whether candidate was hired
-        - Never compromise on quality
-        - Only recruiters evaluate resumes
-        - After screening, phone interviews
-            - 3 subordinate interview
-            - 4 cross-functional interview, e.g. legal to interview sales
-            - 5 feedback is evaluated by committee
-            - 6 rely on disinterested interviewers
-        - Larry personally reviews applications
-        - 4 to 10 hours is spent on hiring for each employee
-        - Top executives spent a full day on it
-        - Time spent is reduced over time
+- Study shows the first 10 seconds predict the outcome of the interview
+    - Unstructured interviews can explain 14% of job performance. R of 0.14
+    - Reference checks - 7%
+    - Number of years of work experience - 3%
+    - Work sample test - 29% (representative work sample is hard to create)
+    - Test of general cognitive ability - 26%
+    - Structured interviews 26% behavioral, situational questions
+    - Test of conscientiousness - 10%
+- Q droid - internal service at Google for finding interview questions for a position
+- Vox populi - feedback from candidates
+- 4 attributes are tested during the interview process
+    - General cognitive ability
+    - Leadership, emergent leadership. Google is against leaders who champion themselves
+    - Googleness - fun, ok with ambiguity, courage
+    - Role related knowledge
+- Later Google moved to balance of generalists and experts
+- Each interviewer reports
+    - Attribute being assessed
+    - Question and answer
+    - Interviewers assessment
+- Constantly check that interview works
+- Same as other products improve, so does the hiring machine
+- Rule of 4 interviews
+- Median time to hire 37 days
+- Interviewers are evaluated too. They can see their assessment and whether candidate was hired
+- Never compromise on quality
+- Only recruiters evaluate resumes
+- After screening, phone interviews
+    - 3 subordinate interview
+    - 4 cross-functional interview, e.g. legal to interview sales
+    - 5 feedback is evaluated by committee
+    - 6 rely on disinterested interviewers
+- Larry personally reviews applications
+- 4 to 10 hours is spent on hiring for each employee
+- Top executives spent a full day on it
+- Time spent is reduced over time
 
 6. Work rules for **mass empowerment**
 
-        - AB testing, 1% tests
-        - Same for people. Upward management feedback
-        - Creativity needs freedom, 20% of week focus on projects they like
-        - The idea of 20% rather than reality, not policy
-        - Paul Buchheit worked on Gmail for 2.5 years. Google thought it's too far from search
-        - Meritocratic, bonus is based on median salary not personal
-        - Googlegeist - annual survey, 100 questions. Confidentially or anonymously - no personally identified
-        - 5 questions that correlate with people quitting
-        - Ethos of simplification, improve recognition of people simplifying code. Talks, education
-        - Partnered with people operations to make sure it's accounted for in performance reviews
-        - Citizenship awards for people who simplify
-        - Bureaucracy busters. Don't require paper receipts
+- AB testing, 1% tests
+- Same for people. Upward management feedback
+- Creativity needs freedom, 20% of week focus on projects they like
+- The idea of 20% rather than reality, not policy
+- Paul Buchheit worked on Gmail for 2.5 years. Google thought it's too far from search
+- Meritocratic, bonus is based on median salary not personal
+- Googlegeist - annual survey, 100 questions. Confidentially or anonymously - no personally identified
+- 5 questions that correlate with people quitting
+- Ethos of simplification, improve recognition of people simplifying code. Talks, education
+- Partnered with people operations to make sure it's accounted for in performance reviews
+- Citizenship awards for people who simplify
+- Bureaucracy busters. Don't require paper receipts
 
 7. Work rules for **performance management**
 
-        - Improve performance by focusing on personal growth instead of ratings and rewards
-        - Concerns - takes too much time, not transparent, not fair
-        - OKRs are public to the company
-        - Measuring performance
-        - 41 point scale. Average 3.3 and 3.4 
-        - Tried with different parameters, tried different number of grades: 3 to 50 grades. Yearly, quarterly, real time
-        - (1) Consensus impossible, (2) Desire for seriousness, (3) Experimentation important
-        - Having more categories - with 15 categories, employees decided they had fewer superb performers. with 5 categories had 5% superb performers
-        - Calibration - removes sources of individual bias. Recency bias, hand out common errors to reduce bias
-        - Ratings are tools for fairness, pay more for more work
-        - Avoid defensiveness, promote learning
-        - Intrinsic motivation drives performance, external motivation removed internal motivation. Study about assembling puzzle
-        - With ratings there is incentive to gamble the system
-        - Performance evaluation is separate from development evaluation
-        - Every time you open your mouth you add value
-        - Promotions are reviewed by committees, fairness. Googlers nominate themselves
-        - Colleges and partnerships spend a lot of time on performance reviews
-        - Set goals correctly public ambitious
-        - Gather peer feedback
-        - For evaluation adapt calibration, meetings to review profiles
-        - Split reward conversations from development conversations, combining them kills learning
+- Improve performance by focusing on personal growth instead of ratings and rewards
+- Concerns - takes too much time, not transparent, not fair
+- OKRs are public to the company
+- Measuring performance
+- 41 point scale. Average 3.3 and 3.4
+- Tried with different parameters, tried different number of grades: 3 to 50 grades. Yearly, quarterly, real time
+- (1) Consensus impossible, (2) Desire for seriousness, (3) Experimentation important
+- Having more categories - with 15 categories, employees decided they had fewer superb performers. with 5 categories had 5% superb performers
+- Calibration - removes sources of individual bias. Recency bias, hand out common errors to reduce bias
+- Ratings are tools for fairness, pay more for more work
+- Avoid defensiveness, promote learning
+- Intrinsic motivation drives performance, external motivation removed internal motivation. Study about assembling puzzle
+- With ratings there is incentive to gamble the system
+- Performance evaluation is separate from development evaluation
+- Every time you open your mouth you add value
+- Promotions are reviewed by committees, fairness. Googlers nominate themselves
+- Colleges and partnerships spend a lot of time on performance reviews
+- Set goals correctly public ambitious
+- Gather peer feedback
+- For evaluation adapt calibration, meetings to review profiles
+- Split reward conversations from development conversations, combining them kills learning
 
 8. Work rules for managing your **2 tails**: the best opportunities lie in best and worst employees
 
-        - Height - gaussian, bell curve, applied in cases where it doesn't fit
-        - Power law - letter L
-        - Most companies treat employees as bell curve distribution. But the tails aren't symmetrical, bad employees 
-          get fired, the worst don't even make it in the door. Human performance follows power law distribution
-        - Most companies undervalue and underpay their best people
-        - People in the bottom tail present biggest opportunity. In GM bottom 10% get fired, you either move up or move out
-        - Google tracks 5% of bottom performance. They let them know that they are in the bottom 5%
-        - Typically lack of skill, or will, not motivated. Google de-emphasize role related hiring. They believe people will figure out their place
-        - Google only intervent to bottom 5% people
-        - Put best people under microscope
-        - Project oxygen, what if everyone had an amazing manager. Manager quality didn't have an effect on performance 
-        - Engineers believe that managers don't matter. In 2011 Larry and Sergei eliminated managers. Within 6 weeks were reinstated
-        - Manager has to be at least as technically capable as their team. No-op manager otherwise
-        - Engineers moved from worst to best managers and visa versa, it showed engineers performance improved
-        - Checklist in airplane saved lives
-        - Semi annual upper feedback
-        - Help those in need
-        - Put your best people under microscope
-        - Use surveys and checklists to surface the truth and nudge people to tell the truth
-        - Have people who are best train everyone else
+- Height - gaussian, bell curve, applied in cases where it doesn't fit
+- Power law - letter L
+- Most companies treat employees as bell curve distribution. But the tails aren't symmetrical, bad employees
+  get fired, the worst don't even make it in the door. Human performance follows power law distribution
+- Most companies undervalue and underpay their best people
+- People in the bottom tail present biggest opportunity. In GM bottom 10% get fired, you either move up or move out
+- Google tracks 5% of bottom performance. They let them know that they are in the bottom 5%
+- Typically lack of skill, or will, not motivated. Google de-emphasize role related hiring. They believe people will figure out their place
+- Google only intervent to bottom 5% people
+- Put best people under microscope
+- Project oxygen, what if everyone had an amazing manager. Manager quality didn't have an effect on performance
+- Engineers believe that managers don't matter. In 2011 Larry and Sergei eliminated managers. Within 6 weeks were reinstated
+- Manager has to be at least as technically capable as their team. No-op manager otherwise
+- Engineers moved from worst to best managers and visa versa, it showed engineers performance improved
+- Checklist in airplane saved lives
+- Semi annual upper feedback
+- Help those in need
+- Put your best people under microscope
+- Use surveys and checklists to surface the truth and nudge people to tell the truth
+- Have people who are best train everyone else
 
 9. Work rules for building a learning institution
 
-         - It's better to deliver less content but make sure it sticks
-         - Teaching scales geometrically, individual linearly
-         - It's better to learn from people who work today
-         - Googler mindfulness, improves decision making
-         - G to g knowledge sharing between googlers
-         - Presenting with charisma
-         - I2p intro to programming to non engineers
-         - Rebecca Cotton career guru
-         - Leadership sales gurus
-         - Only invest in courses that change behavior
-         - Stories are key to teaching
-         - Behavior, Results
-         - Experiment to measure the results, try on one group and compare to another
-         - 3 rules:
-              1. Engage in deliberate practice, break lessons down to small digestible pieces and do them repeatedly, improve via feedback
-              2. Have your best people teach
-              3. Invest only course that can change people behaviour, and you can prove it
+- It's better to deliver less content but make sure it sticks
+- Teaching scales geometrically, individual linearly
+- It's better to learn from people who work today
+- Googler mindfulness, improves decision making
+- G to g knowledge sharing between googlers
+- Presenting with charisma
+- I2p intro to programming to non engineers
+- Rebecca Cotton career guru
+- Leadership sales gurus
+- Only invest in courses that change behavior
+- Stories are key to teaching
+- Behavior, Results
+- Experiment to measure the results, try on one group and compare to another
+- 3 rules:
+    1. Engage in deliberate practice, break lessons down to small digestible pieces and do them repeatedly, improve via feedback
+    2. Have your best people teach
+    3. Invest only course that can change people behaviour, and you can prove it
 
 10. Work rules for paying unfairly
 11. Work rules for efficiency, community and innovation
