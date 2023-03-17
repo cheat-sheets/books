@@ -10,7 +10,7 @@ https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
     1. Choose to think of yourself as a founder
     2. Now act like one
 2. Work Rules for building a great **culture**
-    1. Think of your work as a calling with a missing that matters
+    1. Think of your work as a calling with a mission that matters
     2. Give people slightly more trust, freedom and authority than you're comfortable giving them. If you're not worried then you're not giving them enough
 3. **Hiring**
     1. Given limited resources invest HR dollars in recruiting
