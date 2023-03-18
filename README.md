@@ -1033,3 +1033,298 @@ https://www.amazon.com/21-Irrefutable-Laws-Leadership-Anniversary/dp/149151311X
 20. **THE LAW OF EXPLOSIVE GROWTH** - To add growth, lead followers. To multiply, lead leaders.
 
 21. **THE LAW OF LEGACY** - A leader's lasting value is measured by succession.
+
+## English Collocations in Use - Advanced
+
+https://www.amazon.com/English-Collocations-Advanced-Book-Answers-dp-1316629953/dp/1316629953
+
+#### Varieties of collocations
+
+6. Metaphor
+    - foot the bill
+    - heavy burden
+    - run into trouble
+
+7. Intensifying and softening adverbs
+    - deeply offensive
+    - spotlessly clean
+    - wildly inaccurate
+
+8. Make and verbs that mean make
+    - make a contribution
+    - make a habit of
+    - turn a profit
+
+9. Communicating
+    - generally speaking
+    - talk business
+    - get a message across
+
+10. Collocations with phrasal verbs
+    - take up office
+    - work up an appetite
+    - see off an intruder
+
+#### Topics: work and study
+
+11. Working life
+    - make a living
+    - take up a post
+    - move up the ladder
+
+12. New employment
+    - fit the job description
+    - land a new job
+    - menial tasks
+
+13. Thoughts and ideas
+    - bear in mind
+    - widespread belief
+    - jump to conclusions
+
+14. Business reports
+    - fierce competition
+    - stimulate growth
+    - hike in prices
+
+15. Marketing
+    - consumer demands
+    - product development
+    - market share
+
+16. Customer services
+    - fit for purpose
+    - kick up a fuss
+    - grounds for complaint
+
+17. Student life
+    - gifted child
+    - mature student
+    - thirst for knowledge
+
+18. Writing essays, assignments and reports
+    - working hypothesis
+    - confront issues
+    - critical analysis
+
+#### Topics: leisure and lifestyle
+
+19. Social life
+    - call for a celebration
+    - social whirl
+    - play host to
+
+20. Talking
+    - juicy gossip
+    - broach the subject
+    - opening gambit
+
+21. In the news
+    - declare independence
+    - reach agreement
+    - bow to pressure
+
+22. Current affairs
+    - refuse point-blank
+    - decline to comment
+    - gauge reaction
+
+23. Festivals and celebrations
+    - date back to
+    - movable feast
+    - propose a toast
+
+24. Cosmetics and fashion
+    - flawless complexion
+    - set the trend
+    - fashion victim
+
+25. Commuting
+    - traffic gridlock
+    - rail network
+    - lengthy tailbacks
+
+26. Travel and adventure
+    - get itchy feet
+    - off the beaten track
+    - leg of the journey
+
+27. Sport
+    - keep in shape
+    - reach fever pitch
+    - score an own goal
+
+28. Plans and decisions
+    - toy with an idea
+    - tentative suggestion
+    - deciding factor
+
+29. Film and book reviews
+    - star-studded cast
+    - glowing reviews
+    - hold one's attention
+
+#### Topics: the modern world
+
+30. Regulations and authority
+    - minimise danger
+    - grant permission
+    - faceless bureaucrats
+
+31. The environment
+    - dump waste
+    - searing heat
+    - offset carbon emissions
+
+32. Town and country life
+    - back of beyond
+    - rural idyll
+    - urban regeneration
+
+33. Personal finance
+    - clear one's debts
+    - agreed credit limit
+    - identity theft
+
+34. The economy
+    - curb inflation
+    - safeguard one's interests
+    - plummeting profits
+
+35. Social issues
+    - antisocial behaviour
+    - dysfunctional family
+    - unfit for human habitation
+
+36. Science and technology
+    - harness technology
+    - cutting-edge design
+    - Wi-Fi hotspots
+
+37. Health and medicine
+    - build up resistance
+    - adverse reaction
+    - shake off a cold
+
+38. Criminal justice
+    - custodial sentences
+    - trumped-up charges
+    - beyond reasonable doubt
+
+39. War and peace
+    - deploy troops
+    - pre-emptive strike
+    - collateral damage
+
+#### Topics: people
+
+40. Friendship
+    - lifelong friends
+    - platonic relationship
+    - moral support
+
+41. Youth and age
+    - child prodigy
+    - go through a midlife crisis
+    - senior moment
+
+42. Celebrities and heroes
+    - lavish lifestyle
+    - meteoric rise to fame
+    - heap praise on
+
+43. Negative opinions about people
+    - bone idle
+    - poison the atmosphere
+    - nasty piece of work
+
+44. References
+    - act as a referee
+    - accumulate experience
+    - financial acumen
+
+45. Personality and behaviour
+    - stubborn streak
+    - boundless energy
+    - act one's age
+
+#### Basic concepts
+
+46. Space and time
+    - cramped conditions
+    - waste of space
+    - go down in history
+
+47. Sound
+    - husky voice
+    - incessant noise
+    - let out a cry
+
+48. Making things easier
+    - viable options
+    - simplicity itself
+    - take the easy way out
+
+49. Difficulty
+    - severe blow
+    - hinder progress
+    - encounter difficulties
+
+50. Quantity and size
+    - finite number
+    - endless supply
+    - unknown quantity
+
+51. Change
+    - sweeping changes
+    - would make a change
+    - sudden shift
+
+#### Functions
+
+52. Stopping and starting
+    - bring a halt to
+    - close off a street
+    - dispel rumours
+
+53. Cause and effect
+    - root cause
+    - provoke an outcry
+    - dire consequences
+
+54. Describing groups and amounts
+    - swarm of bees
+    - flurry of activity
+    - stroke of genius
+
+55. Comparing and contrasting
+    - bear little resemblance to
+    - polar opposites
+    - draw a comparison between
+
+56. Making an effort
+    - give it one's best shot
+    - abortive attempt
+    - hard slog
+
+57. Social English
+    - not lose any sleep
+    - to be brutally honest
+    - be on the go
+
+58. Discussing issues
+    - make a commitment
+    - give a straight answer
+    - miss the point
+
+59. Negative situations and feelings
+    - nasty shock
+    - take exception to
+    - suffer at the hands of
+
+60. Positive situations and feelings
+    - sense of achievement
+    - state of euphoria
+    - derive pleasure from
+
+Example sentences and [AnkiApp](https://web.ankiapp.com/home) flashcards can be found in this file: [english_collocations.csv](/english_collocations.csv)
