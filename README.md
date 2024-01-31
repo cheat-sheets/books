@@ -2,6 +2,69 @@
 
 Book summaries
 
+## Ikigai: The Japanese Secret to a Long and Happy Life
+
+https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722
+
+## Introduction to Ikigai
+- **Defining Ikigai**: The concept signifies "a reason for being", encapsulating the passion and purpose that motivates individuals each day.
+- **Centrality of Ikigai**: Lies at the convergence of what one loves, what one is good at, what the world needs, and what one can be compensated for.
+
+## The Ikigai Principles
+1. **Start Small**: Advocates for appreciating minor joys and achievements.
+2. **Release Yourself**: Focuses on shedding unnecessary stress.
+3. **Harmony and Sustainability**: Promotes living in balance with oneself and nature, aiming for enduring wellness.
+4. **The Joy of Little Things**: Encourages savoring everyday pleasures.
+5. **Being in the Here and Now**: Highlights the importance of mindfulness and present-focused living.
+
+## The Ikigai Diet
+- **Dietary Focus**: Emphasizes vegetables, grains, and soy, with a preference for fresh and local fare.
+- **The 80% Rule**: Suggests eating until 80% full to prevent overeating and promote longevity.
+
+## Ikigai and Longevity
+- **Active Lifestyle**: Recommends consistent, moderate physical activity.
+- **Social Cohesion**: Stresses the importance of strong community connections.
+- **Stress Reduction**: Offers strategies for mitigating stress's negative impact.
+- **Blue Zones**: Notably, three of the identified blue zones are islands, where limited resources and strong community support are prevalent, contributing to longevity.
+- **Community Support**: The concept of **Moai** reflects a social support network in Okinawa, providing a range of support from social to financial, health, or spiritual, which is fundamental to their long life spans. More information can be found on [Blue Zones](https://www.bluezones.com/2018/08/moai-this-tradition-is-why-okinawan-people-live-longer-better/).
+- **Continuous Engagement**: In Japan, there is no direct translation for 'retirement' in the Western sense, reflecting a cultural inclination towards staying active and engaged throughout life.
+
+## Finding Your Ikigai
+1. **Self-Reflection**: Involves delving into personal interests, skills, and values.
+2. **Experimentation**: Encourages trying new activities to discover what truly fulfills.
+3. **Integration**: Involves aligning various life aspects around one's Ikigai.
+
+## Living with Ikigai
+- **Everyday Ikigai**: Integrating Ikigai into daily routines for a purpose-driven existence.
+- **Ikigai and Work**: Finding meaning in professional or volunteer activities.
+- **Challenges and Resilience**: Leveraging Ikigai as a source of motivation during tough times.
+
+## The 10 Rules of Ikigai
+1. Stay active; don't retire.
+2. Take it slow.
+3. Don't fill your stomach.
+4. Surround yourself with good friends.
+5. Get in shape for your next birthday.
+6. Smile.
+7. Reconnect with nature.
+8. Give thanks.
+9. Live in the moment.
+10. Follow your Ikigai.
+
+## Incorporating Ikigai in Work and Craftsmanship
+- **Takumi**: Toyota's employment of 'takumi' craftsmen, who specialize in creating a particular type of screw, exemplifies the dedication to mastery in work.
+- **Cultural Appreciation in Craft**: The esteemed Shakunaga Yukio porcelain, admired by Steve Jobs, is a testament to the longevity that comes from appreciating and preserving traditional techniques.
+- **Traditional Techniques in Modern Work**: Hayao Miyazaki's commitment to using traditional techniques in animation is a celebration of 'Ikigai' in creativity and work.
+
+## Everyday Elements Contributing to Longevity
+- **Shikuwasa**: The citrus depressa, grown in Okinawa and known locally as 'shikuwasa', is noted for its nutritional value and is a staple in the Okinawan diet.
+- **Radio Taiso**: A daily exercise routine broadcasted on the radio, which promotes physical health among all age groups in Japan.
+
+## Conclusion: The Ikigai Way
+- **A Lifelong Journey**: Emphasizes that discovering Ikigai is an ongoing process.
+- **Global Relevance**: Discusses how Ikigai's principles can be adapted across cultures for a universally enriched life.
+
+
 ## Work Rules!
 
 https://www.amazon.sg/Work-Rules-Insights-Inside-Transform/dp/1444792385
