@@ -2,6 +2,77 @@
 
 Book summaries
 
+## How to Win Friends and Influence People
+
+[Audiobook](https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96?qid=1711885551&sr=1-1&ref_pageloadid=not_applicable&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Q6VEWNPVSGAD2SW3RJJV&pageLoadId=gbZ9nfT1GRynxpqB&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
+
+- Part 1: Fundamental techniques in handling people
+    - Chapter 1: if you want to gather honey don’t kick over the beehive
+        - As much as we thirst for approval, we dread condemnation
+        - Don’t criticise, condemn or complain as it never works
+    - Chapter 2: the big secret of dealing with people
+        - People want to be great, people want to be important, people want to be appreciated
+        - Forget flattery, give honest, sincere appreciation
+    - Chapter 3: He who can do this has the whole world with him. He who cannot walks a lonely way
+        - The only way to influence people is to talk in terms of what they want
+        - If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle, as well as from your own
+        - Arouse in other person an eager want
+- Part 2: 6 ways to make people like you
+    - Chapter 1: Do this and you’ll be welcome anywhere
+        - You can make more friends in two months by becoming interested in other people than you can in 2 years by trying to get people interested in you
+        - Example: a dog
+        - Know birthdays of your friends
+        - We are interested in others when they are interested in us
+        - Become genuinely interested in other people
+    - Chapter 2: Smile
+    - Chapter 3: Remember people’s names and call them by their names
+    - Chapter 4:
+        - Ask questions that other person will enjoy answering
+        - To be interesting be interested
+        - Encourage people to talk about themselves
+    - Chapter 5: Talk in terms of the other person’s interests
+    - Chapter 6: Make the other person feel important and do it sincerely
+        - Phrases like
+            - I’m sorry to trouble you
+            - Would you be so kind
+            - Won’t you please
+            - Would you mind
+- Part 3:
+    - Chapter 1: avoid arguments
+        - Look for areas of agreement
+        - Apologize for your mistakes
+    - Chapter 2: don’t tell people that you’re smarter or that they are wrong
+    - Chapter 3: if you’re wrong admit it
+        - By fighting you never get enough but by yielding you get more than you expected
+    - Chapter 4: a drop of honey. Begin in a friendly way
+        - The sun can make you take off your coat quicker than the wind, and kindliness, friendly approach and appreciation can make people change their minds more readily than all the bluster and storming in the world
+    - Chapter 5: begin by emphasizing things on which you agree.
+        - Keep emphasizing that you are both striving for the same end and that the only difference is one of method and not of purpose
+        - Get the other person saying Yes, Yes at the outset. Keep your opponent from saying No
+        - Socratic method: ask questions with Yes answers
+        - He who treads softly goes far
+    - Chapter 6: the safety valve in handling complaint
+        - Let the other person do a great deal of the talking
+    - Chapter 7: how to get cooperation
+        - Let the other person feel that the idea is his or hers
+        - Chinese sage said: seas and rivers receive streams of water from mountains because they are below them
+    - Chapter 8: try honestly to see thing from the other person’s point of view
+    - chapter 9: be sympathetic with the other person’s ideas and desires
+    - Chapter 10: appeal to the nobler motives
+    - Chapter 11: dramatize your ideas
+    - Chapter 12: throw down a challenge
+- Part 4: be a leader
+    - Chapter 1: begin with praise and honest appreciation
+    - Chapter 2: call attention to people’s mistakes indirectly
+    - Chapter 3: talk about your own mistakes before criticizing the other person
+    - Chapter 4: ask questions instead of giving direct orders
+    - Chapter 5: let the other person save face
+    - Chapter 6: praise every slightest improvement, be lavish in your praise
+    - Chapter 7: give a person a fine reputation to live up to
+    - Chapter 8: use encouragement, make the fault seem easy to correct
+    - Chapter 9: make the other person happy about doing the thing that you suggest
+
+
 ## Миссия выполнима. Технология счастливой жизни, Маргулан Сейсембаев
 
 [Amazon](https://www.amazon.com/%D0%9C%D0%B8%D1%81%D1%81%D0%B8%D1%8F-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BC%D0%B0-%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D0%BE%D0%B9-Russian-ebook/dp/B0C74245Q4)
