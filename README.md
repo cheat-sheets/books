@@ -2,6 +2,24 @@
 
 Book summaries
 
+## Table of Contents
+
+- [How to Win Friends and Influence People](#how-to-win-friends-and-influence-people)
+- [Миссия выполнима. Технология счастливой жизни, Маргулан Сейсембаев](#миссия-выполнима-технология-счастливой-жизни-маргулан-сейсембаев)
+- [Ikigai: The Japanese Secret to a Long and Happy Life](#ikigai-the-japanese-secret-to-a-long-and-happy-life)
+- [Work Rules!](#work-rules)
+- [High Output Management](#high-output-management)
+- [The Selfish Gene](#the-selfish-gene)
+- [How Google Works](#how-google-works)
+- [The Power of Habit](#the-power-of-habit)
+- [Zero to One](#zero-to-one)
+- [Stress-Free Living](#stress-free-living)
+- [The Lean Startup](#the-lean-startup)
+- [Mastering Fear](#mastering-fear)
+- [Sapiens: A Brief History of Humankind](#sapiens-a-brief-history-of-humankind)
+- [The 21 Irrefutable Laws of Leadership](#the-21-irrefutable-laws-of-leadership)
+- [English Collocations in Use - Advanced](#english-collocations-in-use---advanced)
+
 ## How to Win Friends and Influence People
 
 [Audiobook](https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96?qid=1711885551&sr=1-1&ref_pageloadid=not_applicable&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Q6VEWNPVSGAD2SW3RJJV&pageLoadId=gbZ9nfT1GRynxpqB&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
